@@ -1,832 +1,833 @@
-14
-15
-14
-15
-11
-11
-13
-13
-15
-15
-15
-15
-15
-15
-13
-14
-9
-15
-14
-15
-15
-15
-13
-10
-9
-13
-12
-14
-15
-15
-14
-12
-12
-15
-15
-13
-14
-12
-13
-12
-13
-15
-15
-15
-11
-12
-14
-15
-13
-11
-11
-15
-14
-14
-15
-14
-14
-14
-15
-13
-9
-15
-13
-15
-15
-13
-13
-10
-14
-11
-15
-15
-12
-10
-14
-13
-15
-13
-15
-14
-12
-15
-15
-13
-14
-13
-11
-14
-15
-14
-10
-13
-13
-13
-14
-15
-13
-13
-11
-11
-15
-12
-15
-12
-14
-10
-15
-13
-15
-12
-14
-10
-13
-14
-15
-13
-13
-9
-12
-12
-12
-14
-14
-15
-11
-13
-14
-14
-11
-11
-12
-12
-15
-13
-14
-14
-12
-11
-11
-14
-14
-13
-15
-14
-14
-13
-12
-14
-11
-14
-14
-13
-12
-11
-12
-15
-14
-15
-15
-15
-11
-12
-14
-14
-15
-13
-12
-12
-15
-14
-14
-14
-13
-13
-15
-13
-13
-14
-15
-15
-15
-14
-13
-15
-15
-12
-15
-14
-14
-12
-15
-13
-14
-15
-13
-13
-15
-13
-11
-11
-15
-14
-11
-13
-14
-13
-13
-11
-15
-13
-14
-15
-13
-13
-13
-15
-13
-12
-15
-14
-13
-12
-12
-9
-8
-14
-15
-14
-13
-15
-12
-14
-12
-15
-13
-13
-13
-14
-13
-15
-10
-15
-15
-15
-14
-14
-13
-13
-14
-14
-13
-14
-14
-15
-15
-13
-14
-14
-15
-14
-14
-14
-11
-14
-15
-12
-14
-13
-13
-12
-13
-11
-11
-15
-15
-14
-14
-14
-14
-14
-11
-13
-14
-14
-14
-13
-13
-11
-14
-14
-15
-15
-14
-15
-13
-11
-12
-14
-14
-15
-15
-15
-15
-15
-13
-11
-14
-13
-13
-15
-13
-12
-13
-13
-13
-9
-14
-13
-14
-13
-14
-13
-12
-11
-12
-14
-13
-12
-14
-15
-15
-12
-14
-13
-14
-14
-11
-15
-15
-10
-11
-14
-14
-10
-14
-15
-15
-8
-13
-11
-14
-13
-15
-14
-13
-13
-14
-14
-12
-12
-14
-13
-15
-11
-14
-14
-14
-13
-14
-13
-14
-15
-13
-12
-13
-15
-13
-11
-12
-11
-14
-14
-15
-14
-10
-14
-15
-13
-14
-12
-14
-15
-15
-14
-14
-15
-12
-15
-13
-15
-12
-14
-14
-15
-14
-12
-13
-14
-13
-13
-7
-11
-13
-14
-12
-15
-13
-14
-14
-14
-15
-14
-15
-14
-15
-12
-13
-14
-14
-15
-15
-13
-14
-14
-14
-15
-14
-11
-13
-15
-11
-14
-9
-15
-9
-13
-15
-15
-15
-12
-15
-15
-14
-13
-14
-12
-15
-13
-14
-15
-15
-12
-12
-11
-11
-12
-13
-14
-11
-14
-15
-13
-14
-15
-14
-13
-14
-12
-14
-15
-12
-14
-14
-13
-11
-14
-14
-15
-15
-8
-15
-14
-13
-15
-13
-15
-12
-14
-14
-13
-14
-15
-14
-15
-15
-15
-15
-13
-12
-15
-14
-15
-12
-10
-15
-12
-11
-11
-10
-13
-15
-12
-14
-15
-14
-12
-14
-14
-10
-14
-13
-14
-14
-14
-12
-13
-12
-14
-13
-13
-14
-13
-14
-15
-13
-14
-13
-15
-12
-15
-15
-13
-12
-11
-13
-14
-15
-13
-3
-12
-12
-15
-14
-14
-15
-13
-11
-13
-12
-13
-15
-15
-14
-15
-11
-15
-9
-12
-15
-14
-14
-14
-14
-11
-15
-13
-14
-15
-15
-12
-14
-14
-12
-14
-13
-15
-15
-15
-13
-14
-13
-14
-15
-13
-15
-15
-14
-11
-13
-13
-14
-13
-4
-10
-14
-10
-13
-13
-11
-15
-15
-15
-14
-12
-15
-14
-9
-10
-14
-15
-15
-13
-9
-15
-13
-13
-12
-11
-15
-15
-13
-10
-13
-15
-15
-12
-13
-11
-15
-15
-12
-15
-14
-14
-15
-12
-12
-15
-14
-15
-15
-11
-11
-11
-15
-12
-15
-14
-13
-11
-14
-15
-15
-15
-12
-11
-15
-13
-13
-11
-13
-13
-13
-12
-14
-14
-15
-14
-10
-14
-15
-15
-14
-13
-13
-14
-13
-13
-13
-15
-11
-13
-14
-12
-12
-9
-11
-15
-15
-11
-15
-14
-14
-12
-15
-14
-13
-11
-12
-15
-14
-13
-15
-13
-14
-14
-12
-14
-13
-15
-14
-14
-13
-15
-14
-8
-15
-13
-13
-13
-15
-12
-13
-15
-14
-12
-15
-15
-15
-15
-13
-15
-12
-12
-12
-15
-12
-12
-14
-15
-14
-15
-15
-10
-13
-11
-15
-11
-12
-11
-8
-15
-14
-12
-13
-15
-15
-10
-13
-13
-15
-14
-14
-15
-15
-11
-13
-13
-13
-15
-15
-15
-15
-14
-14
-13
-15
-10
-10
-12
-11
-14
-12
-15
-15
-15
-15
-13
-14
-14
-13
-14
-11
-15
-15
-14
-14
-12
-14
-15
-13
-11
-12
-13
-14
-15
-14
-14
-12
-14
-11
-13
+#,glass,cardboard,type5,crisps,batteries,cartons,type4,envelopes,aerosols,wipes,plasticbottle,toothpaste,cleaningbottles,petfood,tins,Score,Start Date (UTC),,Submit Date (UTC),Network ID
+6mim611evo66rr35686mi7dxvmnpyyqj,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-26 19:35:41,2020-07-26 19:37:46,371297c42d,
+x0keo8tehgej5u25x0keo8qrhjqjfkw7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-26 18:36:20,2020-07-26 18:38:21,b5d146c78a,
+ifcbmmx0q61tifjphhlqokhnblzjx3n6,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-26 15:32:22,2020-07-26 15:34:02,785f186bdc,
+5tkuca9fm3hzwiu5tkucjkets59j9dw2,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-26 15:15:06,2020-07-26 15:17:01,3a94ccc00b,
+1lfuq7if7po0prfke1lfuq70wgji56no,2,1,1,2,Battery bank,1,2,1,1,2,1,1,1,1,1,11,2020-07-26 13:20:17,2020-07-26 13:23:59,850998aaf7,
+lhw5roa8jfcelhwp2iv3u9wtub0xsshx,Bottle bank,1,2,2,Battery bank,2,2,1,1,2,1,1,1,2,1,11,2020-07-26 11:13:18,2020-07-26 11:15:28,d3ebc62f64,
+2ssxazzbly0kacarnbef1fhd2ssxazeo,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-25 22:06:08,2020-07-25 22:08:41,e3f10e2f40,
+q0n1nsqbdv0q84x3cf0q0n1nndh3xnnb,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-25 20:38:58,2020-07-25 20:41:46,6bfd381847,
+it3qk5zivrie48zit3qk5xuyy05kg9ch,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 19:38:20,2020-07-25 19:41:09,29b569a1dc,
+d2h81drqsb3ntud2g7smyw8dlx4g6y85,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 18:31:56,2020-07-25 18:34:03,fff875211f,
+bdwghezr6k46wxijjkbdwghezrailm7d,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 18:22:13,2020-07-25 18:24:10,05c77b910f,
+ffkf411jyoyol0ffkfnjy4zqhq899xgt,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 18:21:04,2020-07-25 18:23:18,a899aa6d32,
+9ppi0ct3z7i30pnddff89ppi07yu8emz,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 17:08:01,2020-07-25 17:09:48,42af373c6f,
+3zdkogygvfukxzgvib2z3zdkopfujmv5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 16:56:17,2020-07-25 16:58:42,63aa04ed2b,
+lfqdh0la57auuq75enyuwiqlfqdh0lpy,Bottle bank,1,1,2,Battery bank,1,1,2,1,2,1,2,1,1,1,13,2020-07-25 16:28:41,2020-07-25 16:31:31,6b0eb43b9d,
+6l6kaw3ipqh34fr7gykq6l6kawxnpmmz,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-25 16:24:58,2020-07-25 16:26:42,4b5fe3293f,
+q9eh0zrdn9tzfy1q54lxq9eh0zrd1kpe,1,1,2,2,Battery bank,1,2,1,2,1,1,2,2,2,1,9,2020-07-25 16:12:16,2020-07-25 16:14:21,7e930a5542,
+co0sbrd0gd84it36pco0sbjk5amlfz9b,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 14:10:35,2020-07-25 14:12:27,51681779ee,
+2i2hmfyddkawd2i2hmu1035krr612lbt,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-25 13:21:23,2020-07-25 13:22:30,a6dbcff943,
+4w2t53i5yii95dy9pouuj14w2t53lmgd,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 12:47:33,2020-07-25 12:49:32,b6870499ef,
+b0jrt5zfqjzbirskme5nab0jrt5zsz90,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 12:29:09,2020-07-25 12:30:36,2889160546,
+24d3jxyusclwdxgx3sf24d3jqw2mc45l,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 11:34:59,2020-07-25 11:37:09,1f43331c14,
+4nnhl05m76sz1snv4nnhln36bciux5f3,Bottle bank,1,1,2,2,1,1,1,1,2,1,2,1,1,1,13,2020-07-25 11:32:27,2020-07-25 11:33:50,1f43331c14,
+rovvan1rjbcpgamoarovvakgo6f9rcb1,2,1,1,2,Battery bank,1,1,1,2,2,2,1,1,2,2,10,2020-07-25 11:29:23,2020-07-25 11:31:22,1f43331c14,
+076x7086x8x4dh076xdheu32vpw2ybcp,Bottle bank,1,1,1,Battery bank,1,2,1,2,1,1,2,2,1,1,9,2020-07-25 11:29:00,2020-07-25 11:30:52,59fca1da2a,
+5d1lv1rip2oj6kvdidu5lv5d1lv1modx,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-25 11:27:00,2020-07-25 11:28:56,1f43331c14,
+17xmp9blwm5dwa8p17xm5v9ow4q2zkbp,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,1,1,12,2020-07-25 11:22:31,2020-07-25 11:24:32,a51ccc36e8,
+kz846f3t723ola9ajekz846f3wd9l31i,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-25 10:31:21,2020-07-25 10:33:43,c74b0aa9f5,
+bk04n236rkz1tmcvvatbk04j3yq0c5ta,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 10:14:32,2020-07-25 10:16:06,68f8ec6a22,
+w8d0obvmkd9xf4060w4w8d0ob4a0pm38,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 10:05:52,2020-07-25 10:07:54,ce3bf5dde9,
+uqwocxrfunjvb8a3ezuyuqwocx0pb93o,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-25 10:04:56,2020-07-25 10:07:17,659db399a9,
+4xxyszh426m1yq0tfaxhqqepu4xxyszh,Bottle bank,1,2,2,Battery bank,1,2,1,1,2,1,1,1,2,1,12,2020-07-25 07:07:27,2020-07-25 07:09:56,ddca6df858,
+bjwbt5l7s73851hzfrk3wy5bjwbt5w03,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,1,1,2,1,12,2020-07-25 05:56:03,2020-07-25 05:59:34,68863157dc,
+nrc9s39aoaax5x6nrc9s37fv23wzza2y,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-25 04:07:54,2020-07-25 04:09:39,94a128a1c9,
+27rr9pe8xpxmf70ov227rr91vlb7cy9n,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-24 22:11:38,2020-07-24 22:13:47,8ed6dec347,
+53e35bvaj5hkmifjhawq6l53e35bvvvt,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,2,1,13,2020-07-24 17:26:33,2020-07-24 17:27:51,cff552c54d,
+60z5ql1vp27et560zfdhpvynk90p3rwp,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-24 16:59:18,2020-07-24 17:01:21,bad0d1551e,
+ma8wgepq7rob6rcprhpoma8wy8bityt8,1,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,12,2020-07-24 16:29:52,2020-07-24 16:32:12,c6a2ca247c,
+od209m944n1rign8wod209ancxm7rf4l,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,1,1,13,2020-07-24 15:15:13,2020-07-24 15:18:09,f586b0157a,
+e9bvk0pac31o6cy26oj4e9bvklm2qj9u,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,1,1,12,2020-07-24 14:46:32,2020-07-24 14:48:31,93650cf74c,
+xt1fjxkkeg5c4vbarftyyxt1fj65du05,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,2,2,1,13,2020-07-24 14:41:16,2020-07-24 14:43:23,d0b30e28fb,
+er3opmp9jq59uzc354ver3opmpgpspft,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-24 14:05:28,2020-07-24 14:07:07,e77edf8beb,
+k2xv8y9urkafcsk2b0f09k2xv8y9ubjt,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-24 10:02:46,2020-07-24 10:06:10,915ff5ecb6,
+0v973mowfgjnmlgh0v973mj07eqmlm7q,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-24 09:21:02,2020-07-24 09:25:32,6d2c2270e5,
+7gamhy10oqrv2e2ic47gamhy1jvcqp9p,Bottle bank,1,1,2,Battery bank,2,2,1,2,2,1,2,2,2,1,11,2020-07-24 09:10:34,2020-07-24 09:12:18,f94d63281a,
+zozfmgu3k6f8elzoy4k0o71rqu7qowwy,Bottle bank,1,1,2,Battery bank,2,1,1,1,1,1,1,1,2,1,12,2020-07-24 08:18:07,2020-07-24 08:22:00,915ff5ecb6,
+8m33uee3qh29h50txv8m33uezfe0pvei,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-24 07:58:53,2020-07-24 08:01:23,863489b13b,
+3cz5934ql3glldr3cz593tlbqja2dyrn,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-24 07:28:36,2020-07-24 07:30:35,4e9b8f502f,
+p38aj60j2qwfpik9lff6p38ajlzt8p6b,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,1,1,13,2020-07-24 07:24:23,2020-07-24 07:26:26,f8e316ccb7,
+g2vkdf57005h3q9wdg2vkduklm9vcr5u,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,2,1,,11,2020-07-24 07:14:06,2020-07-24 07:15:51,9a31aad58a,
+t81wh4eap2cpkm2agzrwt81w7w26ot4a,Bottle bank,1,1,1,Battery bank,2,1,1,2,2,1,1,1,2,1,11,2020-07-24 06:01:50,2020-07-24 06:04:42,39dfa9a0aa,
+gxsdyga4cck2n56vrmgxsdcide4nwf1m,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-24 05:32:47,2020-07-24 05:37:03,1cb80fc520,
+t1trdpcul0lrgp7lt1trdpekqjcjqfym,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-24 00:06:20,2020-07-24 00:08:03,986fef844e,
+puu1laa12v0uxmpuu1lt5c63yjpvxbfk,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-23 23:51:43,2020-07-23 23:53:46,b5da70cb4e,
+8rcn9pux4ng5o8mtsywdd6g8rcn9pui7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 22:40:05,2020-07-23 22:41:15,217359a260,
+uqrf4tqyy9seh2r0uqri71cbpt54d1ku,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-23 22:25:50,2020-07-23 22:29:47,1cb80fc520,
+p3s7fwks2m574s2v7mp32uaojsytv612,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-23 21:35:38,2020-07-23 21:37:14,ab63582dc0,
+gczcph6p76hmhh0fe68rgczcph6elfj5,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-23 21:27:30,2020-07-23 21:29:50,ab460f67a4,
+rsei4lq0tf02i30wrse3fmn2vd4emi0m,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 21:11:00,2020-07-23 21:12:55,e4bb9fb7de,
+pm4ywdoqysybmb048pm4ynpqd5z5k864,Bottle bank,1,2,2,Battery bank,1,1,2,1,2,1,2,1,2,1,13,2020-07-23 21:08:39,2020-07-23 21:11:56,c19382ef0a,
+95ao6ergzil3q9548mbusw1w6hdycw48,Bottle bank,1,1,1,Battery bank,1,2,1,2,1,1,2,1,1,2,9,2020-07-23 20:55:48,2020-07-23 20:59:12,4fce8c0c46,
+agbjeaqqvdp96wlmagbj0fqrweyyqnhw,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 20:54:42,2020-07-23 20:56:13,a6e1e2cdc1,
+udgi2dx40xd71dxtc5udgif9jhs56g13,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-23 20:44:29,2020-07-23 20:46:18,4ae33ac812,
+o2pwqm7thhmd0cs129ko2pwqmlw1ssdm,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 20:18:38,2020-07-23 20:22:01,a487a9ae73,
+dgrbirnqnl3k0azdrdgrbiamztm4hw45,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 20:15:04,2020-07-23 20:17:14,1537e9f050,
+h409l4b1aq2zq4h409jqy8fdrjjgd6md,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-23 20:08:33,2020-07-23 20:10:21,8f0971f3ed,
+7szz9jdp8i89h7szfxsuiifps81xv2u0,Bottle bank,1,1,2,Battery bank,1,1,1,1,1,1,1,1,2,1,13,2020-07-23 19:47:10,2020-07-23 19:48:58,e896a0d991,
+twcmso54yewqwwpdtwcmlaw67ibjbywe,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,2,1,1,1,1,10,2020-07-23 19:19:30,2020-07-23 19:38:06,1caa6ac7bb,
+w3nos2kom24btjuvmlw3nos24m4slwgv,Bottle bank,1,1,2,,1,1,1,1,2,1,2,1,2,1,14,2020-07-23 18:36:09,2020-07-23 18:37:56,fa25c10885,
+1wbq2544vhkdrq1w0j8ftut82nqdyo20,Bottle bank,1,1,1,Battery bank,1,1,1,1,1,1,1,1,1,1,11,2020-07-23 18:20:17,2020-07-23 18:23:01,20f43e6448,
+rrdw9bal9vk1l2w97rrdw9bkcttfba8d,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 18:15:16,2020-07-23 18:16:41,8cf37cf44e,
+1wzfobwrltvenyk1wzfobwrl1lsjrlvo,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 18:11:22,2020-07-23 18:13:20,940a6ed8e1,
+pwt7sau0fi5h8mjcurpwt7su18auqv43,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,1,1,12,2020-07-23 18:05:23,2020-07-23 18:07:31,59dc4bcbbf,
+ozc4llikszi1pk6g13ozc4lllmw35azw,Bottle bank,1,1,2,Battery bank,1,1,2,2,2,1,2,2,1,2,10,2020-07-23 17:51:45,2020-07-23 17:53:48,e9897cb346,
+vshto61fk9tvycjnsvshtoux7rp35psi,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 17:48:15,2020-07-23 17:50:50,58b0e2e677,
+ott6oyci8oalkoo3kya1r6ysott6oyci,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-23 17:30:06,2020-07-23 17:31:33,84bfbc32df,
+i8plf0hkzrfn2tti8dfpb84cfzct568d,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 17:24:11,2020-07-23 17:26:12,9e3a718f97,
+gmh9t16p0iishk3tzgmh9t8rp363p16a,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,2,1,1,13,2020-07-23 17:23:35,2020-07-23 17:25:55,291b839921,
+zh3qbbedqucphpmvlutzh3qb0250t1uk,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 17:14:11,2020-07-23 17:17:18,9f317f62bb,
+qqjlh1u4ejaaqvf9r2kqq89xaests9nd,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 17:09:29,2020-07-23 17:12:42,e612307a17,
+2wyycqgiacmizdr638ntikg2wyycx2hm,Bottle bank,1,1,2,Battery bank,1,1,2,2,2,1,2,2,2,1,12,2020-07-23 16:47:45,2020-07-23 16:51:35,922563bc89,
+ghhxzg2dbti9eri3bllrghhxzb8901kp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 16:42:33,2020-07-23 16:44:18,cc7b341ea3,
+9rkrkmez5edcjpss9rmqsda5i347hd91,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 16:40:43,2020-07-23 16:43:20,1532c0bccc,
+hfj503fevlcl0xr5lpemjg48hfj503fz,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-23 16:30:51,2020-07-23 16:32:28,d6b6293940,
+k6lp04aqpb6aq9pq7pm6k6lfd6hvz3ha,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-23 16:29:20,2020-07-23 16:31:00,8d211a950d,
+7fijrp8j5foj3xlz8xmr7fijrs2dg911,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,1,1,13,2020-07-23 16:26:28,2020-07-23 16:28:33,de43f7ffa7,
+xyqizimipywfowd8y5xyqizmp2425xr1,Bottle bank,1,1,2,Battery bank,2,1,1,2,1,1,1,1,2,1,11,2020-07-23 16:20:19,2020-07-23 16:22:10,79be82d43d,
+8l7veyuzxyzcdy8a5vmn8l7vey7ithx6,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 16:09:57,2020-07-23 16:11:31,cc7b341ea3,
+t0e97a7ozeglludua3t0e97am4g1tsmd,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 16:09:20,2020-07-23 16:11:10,392fd515e2,
+m1nznb36gjv5ul44ism1nlwzsn2dm17p,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-23 15:54:39,2020-07-23 15:58:05,636da3dc52,
+wpv48w5o6bk9u452wpve68x832ehqt7w,Bottle bank,1,2,2,Battery bank,2,1,1,2,2,1,1,1,1,1,10,2020-07-23 15:54:05,2020-07-23 15:56:03,db73a9417b,
+jmychin2lhsnj9oygkijmychins10aub,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-23 15:50:26,2020-07-23 15:54:22,7e40fa39b9,
+b8nuswwxrjk0jabeb8nu6fvgv9r4evo7,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-23 15:50:05,2020-07-23 15:52:55,dfda2c02db,
+xj3zsfny4ngah65sgd4sirxj3zsfng59,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-23 15:48:51,2020-07-23 15:50:07,80bbf108b1,
+j2mn6cd1n8rp9qj2mn633cns29yyq0db,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 15:45:49,2020-07-23 15:48:51,b0893e4c5c,
+v7p6wrupzterllk53av7p6wlk93flzg9,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 15:41:06,2020-07-23 15:42:37,8ca351f28a,
+wwrd68qx918nhx7cwwrd6reqymhnxshl,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-23 15:37:03,2020-07-23 15:38:33,8ca351f28a,
+yrmqp7oaw9di7z50zyrmqp7a5e931p4p,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-23 15:34:00,2020-07-23 15:35:43,42d7965f33,
+ozkv91iu4on5lcdpzvnzozkvd7yed03t,Bottle bank,1,1,2,Battery bank,1,2,1,2,1,1,2,2,2,1,11,2020-07-23 15:30:14,2020-07-23 15:35:24,27e8e713f9,
+mumrpxgs74f1fyvmkwvymumrpcnft1b8,Bottle bank,1,1,2,Battery bank,2,2,1,2,2,1,1,1,2,1,11,2020-07-23 15:29:03,2020-07-23 15:30:31,84866123cc,
+mpjg8rwhl8mzckil5d6awmpjg8rw77s0,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 15:24:58,2020-07-23 15:26:25,be9a5d080c,
+mf79ysl6nzgormpmf79yi8dst5yrz9bw,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,1,1,12,2020-07-23 15:06:11,2020-07-23 15:08:22,27d5ea22e1,
+g0401ir3pjnyukiqhjg0x1f5ziaopib7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 14:48:03,2020-07-23 14:50:29,8f12ff7fcb,
+zaq96iq8ecc59pctzaqog5ahuvrkyglh,Bottle bank,1,1,,Battery bank,1,1,1,1,2,1,1,1,1,1,12,2020-07-23 14:30:55,2020-07-23 14:32:49,c3b5277991,
+ladgska8xj79hladudb1et78cxhotmrp,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-23 14:30:22,2020-07-23 14:31:47,fb4ef7c734,
+t4p8ke5y6es4mzs0mt4p8kqqkhe1v5vq,Bottle bank,1,1,1,Battery bank,2,1,1,2,2,1,1,1,1,1,10,2020-07-23 14:28:55,2020-07-23 14:31:42,9161155682,
+2rw0dhahdw4ybq41q2rw0dig08ab48bs,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 14:25:01,2020-07-23 14:26:11,d13ed4e4f5,
+cvdzu6g7et64kybzr8cvdzu6g2cimf25,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-23 14:22:25,2020-07-23 14:24:33,aa0bdbbc4c,
+yb5y60pnfxsr7rfebyb5yszvn3s9oo9y,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 14:21:59,2020-07-23 14:23:56,d13ed4e4f5,
+olu7xc7l9w2e46ibsoolu7xdjyw7r05b,Bottle bank,1,2,2,Battery bank,2,2,1,1,2,1,2,1,2,1,12,2020-07-23 14:21:36,2020-07-23 14:23:41,8d211a950d,
+70km42gqnfdvg6u54omd70km4236934s,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 14:21:04,2020-07-23 14:22:48,42a510878e,
+t5fbtckiu8vljzxt5fb97sjf5ktxggg1,Bottle bank,1,1,1,Battery bank,1,2,1,2,2,1,1,2,2,1,10,2020-07-23 14:20:19,2020-07-23 14:21:56,5cf79250ce,
+otpol4qtq1egdu86b7votpod51r0cigh,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-23 14:02:07,2020-07-23 14:04:42,df84db9816,
+h6b9ovehltte09hteh6b96bqjz3hp58k,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-23 13:43:57,2020-07-23 13:46:01,29925f2675,
+cr2rf7y4iq3mox36xgtcr2rf7ymi52lu,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 13:40:02,2020-07-23 13:41:44,924754872b,
+k28ntykx7qxktijou9k28nt717x9w8yb,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,2,1,13,2020-07-23 13:23:08,2020-07-23 13:25:42,39c7fe4442,
+sxudonrjlq5518insxulrkcdo1410ec1,Bottle bank,1,1,2,Battery bank,2,1,1,2,2,1,2,1,2,1,13,2020-07-23 13:21:05,2020-07-23 13:25:29,bef1aef969,
+sqsm58v0nh7v2p9zsq0l6q16h6xjhva7,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,1,1,1,2,9,2020-07-23 13:21:25,2020-07-23 13:22:54,39c7fe4442,
+pt41oxcajnadc8vl2pt41ouubfhebpab,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,1,2,1,12,2020-07-23 13:19:20,2020-07-23 13:20:56,39c7fe4442,
+ror04a78e673xmror0h9q5ssmmszf69x,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,1,1,12,2020-07-23 13:13:30,2020-07-23 13:15:25,9a31aad58a,
+yli4oj01c7nuaxkyli9cim8fun7y9org,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,1,1,12,2020-07-23 13:11:02,2020-07-23 13:12:38,185efbc102,
+34k6bospdfkw2dl34k6binlaq8wivgn4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 12:59:36,2020-07-23 13:01:31,f90fefd3fc,
+c0nepucwl87mpq5cysdlz8c0nepuc8ot,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-23 12:58:50,2020-07-23 13:00:24,0a7a030c5e,
+o63n7420pbq9vgjioafo63ngukvijvf6,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 12:58:20,2020-07-23 13:00:23,adf440e190,
+s23jalkto4iri7s6hs23jawzptcphp0h,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,1,1,1,11,2020-07-23 12:55:37,2020-07-23 12:57:14,756828b3a8,
+dg6zwnj2b0wvh1cdg6zw4zwydhz0byys,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,2,1,13,2020-07-23 12:52:21,2020-07-23 12:54:14,924754872b,
+dr8jnp2g3qeo657rd47p4dr8jnp21szg,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 12:38:33,2020-07-23 12:41:15,171cfbb6e5,
+x6psgxg9jh9px6psg8xczmd98hs4a0u9,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 12:37:57,2020-07-23 12:40:10,127369ffc3,
+skava3aqf36pws5rg2qbuskava308g7j,Bottle bank,1,1,2,Battery bank,2,2,1,2,2,1,1,1,2,1,11,2020-07-23 12:13:54,2020-07-23 12:16:17,f68e35028a,
+20z7beuy7rdyzg20z7h4kk9h9jw0lmu3,Bottle bank,1,1,1,Battery bank,1,1,1,2,1,1,1,1,2,1,11,2020-07-23 12:10:19,2020-07-23 12:12:17,8aed8910b3,
+crhtfw1b7rpfffja1714crhtbuv83bw9,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,1,1,12,2020-07-23 12:06:16,2020-07-23 12:08:27,21780a8515,
+3gojlwkiu7hyo6eu5j3gojabm7qe4h7e,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,1,1,12,2020-07-23 12:02:47,2020-07-23 12:05:13,1c5503d1e4,
+vwolm3w2m0d4us9dp8xvwolm3v50c2ri,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 11:58:11,2020-07-23 12:01:14,dab910838c,
+edjwxbwaaksyrhaoutmcedjwxbc4emrh,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-23 11:53:12,2020-07-23 11:54:59,1f43331c14,
+eyopklidn67g7kyoeyopkch577wjz64r,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-23 11:36:35,2020-07-23 11:38:48,d84cb9bced,
+1e5j4mqecq2ctluiag1e5j4ueaze60k6,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-23 11:15:50,2020-07-23 11:18:33,b8d8210871,
+x0565x0nbdw91elzx2h0rx0565xnnvyc,Bottle bank,1,1,2,Battery bank,,1,,1,2,1,1,1,2,1,12,2020-07-23 11:04:08,2020-07-23 11:07:57,59fb8b21ea,
+s2zs3ksk84ohimpexeiqs2zs3igt25wq,Bottle bank,1,1,1,Battery bank,1,2,1,2,2,1,2,2,2,1,11,2020-07-23 11:03:22,2020-07-23 11:05:19,00abbd4bf1,
+bilwfbjiqwg72c55crdqbilwrkqwa79h,Bottle bank,1,2,2,Battery bank,2,2,1,1,2,1,1,1,2,1,11,2020-07-23 10:58:12,2020-07-23 11:01:59,1e13f9e1fc,
+td97ymfz72lrxn8ktd97ym9zfyrfb5im,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 10:55:16,2020-07-23 10:56:58,bc930fc630,
+5zgdg61vjlw68fsfas7695zgdgaruik4,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-23 10:50:31,2020-07-23 10:53:11,d70c77b646,
+81xo67l4bym1ta8z5h67jfa81xo67llt,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,1,2,1,13,2020-07-23 10:43:53,2020-07-23 10:46:30,d70c77b646,
+kq93ddkwthjuh9jkq93duyy1myrjd7vu,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 10:32:42,2020-07-23 10:34:26,7a6d08690d,
+xg18psx484vkpiqz707xg18psx30qas5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,2,2,1,14,2020-07-23 10:29:07,2020-07-23 10:32:01,6e97b0be8a,
+ay5wf1x8jdwkdmwculk5j6ay5wf12is0,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 10:27:18,2020-07-23 10:29:22,a8f35f57a2,
+2eg1f43e9cjvm4xh2eg1fntqnmthf5a8,Bottle bank,1,1,2,,1,1,1,1,2,1,1,1,2,1,13,2020-07-23 10:18:52,2020-07-23 10:29:13,3d10206b51,
+yl9zydom15nx9ylzhue10s2s1h7vzhue,Bottle bank,1,1,1,Battery bank,1,2,1,2,2,1,2,1,2,1,12,2020-07-23 10:26:39,2020-07-23 10:28:36,6e97b0be8a,
+z88qsznyxbqzo9duiz88qszn5vpfv753,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 10:25:52,2020-07-23 10:28:08,1e4f472eeb,
+dsqy76oo6saqpoidsqy76upx84n4q9wp,Bottle bank,1,1,2,Battery bank,1,1,2,1,1,1,1,1,1,1,11,2020-07-23 10:21:24,2020-07-23 10:22:59,b09e470f88,
+snjxnwxruz2wwymjb2pqsnjonnqshy49,,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-23 10:17:53,2020-07-23 10:20:11,c0aa8b6753,
+4jesvx3sottidwo7ebvzta4jesvxffya,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,2,2,1,14,2020-07-23 10:13:27,2020-07-23 10:16:17,960e8994dd,
+p953xdhzl88t5x2actp953lez0hk8nfa,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,1,1,13,2020-07-23 10:12:57,2020-07-23 10:15:00,7cfb750582,
+8evg5zsc6s0tyb8xigb8evg5z2df52l0,Bottle bank,1,1,2,Battery bank,1,1,2,1,2,1,2,2,1,1,12,2020-07-23 10:06:51,2020-07-23 10:10:07,5172fc6763,
+3peccmemaufg4kw8od3pece2whkesrgh,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,2,2,2,1,11,2020-07-23 09:59:41,2020-07-23 10:02:35,9a31aad58a,
+3qi8ckpjkxydwt6b2fv03qi8ckpds93w,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,2,2,1,12,2020-07-23 09:55:57,2020-07-23 10:00:21,ba45be03d3,
+pb3fjc6ihbjkv0vbvpb3fjjex7s86e0i,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 09:52:33,2020-07-23 09:54:23,55f4f34b6c,
+spmiofqhwikd150spmiof8e905vvzx4f,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 09:47:22,2020-07-23 09:50:02,c829dc1ab0,
+8m2b1rorq63sdba0xvl8m2b17x4wpusv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 09:44:37,2020-07-23 09:45:54,358863e2b6,
+dt27xhgxf2htfqckc7oddt27xhgnd0b8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 09:38:04,2020-07-23 09:42:02,cbe05c8a66,
+5pqfm5waok3pihsxhdq8g5pqfm5wml47,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 09:33:12,2020-07-23 09:34:33,9e18d6c824,
+i20d51lkssljloiqdw9ai20d58wun4ms,Bottle bank,1,1,2,Battery bank,2,2,1,2,2,1,2,1,2,2,11,2020-07-23 09:26:42,2020-07-23 09:28:53,747278e6b8,
+vyd4bsuajxve42509g7x7vyd43w99e38,Bottle bank,1,1,2,Battery bank,1,1,1,2,1,1,2,1,1,1,12,2020-07-23 09:18:24,2020-07-23 09:20:20,747278e6b8,
+jjbs1g6cipqjpjkxu38et96vo28ofbkx,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 09:18:13,2020-07-23 09:20:19,9932c39984,
+9iv04o3b8g276lqc65689iv04o3g61nn,Bottle bank,1,1,2,Battery bank,1,1,2,1,2,1,2,1,2,1,14,2020-07-23 09:18:22,2020-07-23 09:19:35,fb36b660c0,
+fwt1wu0nb2mh63rusmfwtgrxtwnmo0hp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 09:04:56,2020-07-23 09:08:53,fdc9ab5cfa,
+uf4fz06ftm75mygwgchr3y3euf4fzgc4,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-23 09:00:05,2020-07-23 09:06:04,adf5e59f9e,
+do3rs5jmqs77yydssdo3rc9xyu71m3gj,Bottle bank,2,1,2,Battery bank,1,2,1,2,2,1,2,1,2,1,12,2020-07-23 08:52:19,2020-07-23 08:54:06,0d65d9c6ef,
+jkvdz6lvkzbctopqw75meko0e1jkvdz6,Bottle bank,1,1,1,Battery bank,1,1,,1,2,1,1,1,2,1,12,2020-07-23 08:48:29,2020-07-23 08:50:18,80754ea3b4,
+vlb3lg4pb0ypmx4jt1vlb3lgvsjgeufm,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 08:41:10,2020-07-23 08:42:53,6602c5d526,
+gytjzqeauoyosqs8b4caogycfouen29x,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-23 08:39:40,2020-07-23 08:40:56,5de630c72f,
+87e6p42kd68go805c87e6pq5i1tw1tnf,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-23 08:31:33,2020-07-23 08:35:47,4a895494ec,
+k7i70uh8jhc006ajrk7i7s6mmyrtfqky,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-23 08:32:58,2020-07-23 08:34:15,43a689621c,
+e20u8kqmo598hmf3fbe20u8kqf7kldm6,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,2,13,2020-07-23 08:30:43,2020-07-23 08:31:59,d6b9c6de62,
+fncd5nsg8bnkr7p3rrr76fncd5ns7v9h,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,1,2,1,13,2020-07-23 08:28:19,2020-07-23 08:30:35,edad35ac90,
+3mhfz2fsmathp83jhn23mhfz28j9jynm,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 08:28:39,2020-07-23 08:30:02,fd0fa27656,
+pqaqyjq9eeie2vl1ppqaqhjbesf8bl1i,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-23 08:22:54,2020-07-23 08:25:40,f0cdf837e3,
+9pl5i8x8oybcd5cq2c9pl5ijb29yi5n4,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,1,1,13,2020-07-23 08:19:51,2020-07-23 08:22:33,b7e25e164e,
+hc93gpxt9kgzxyundi6r6hc93g7u57i5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 08:20:51,2020-07-23 08:22:25,a67635f527,
+qgwt4htxx0hlxcqgqgwt4hg4h0h9j3ye,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 08:10:49,2020-07-23 08:12:17,790d5eaeef,
+v6um0n8lmr9shdtipce82v6um00bhbtr,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 08:07:53,2020-07-23 08:09:46,cbbecea795,
+gv969k01ie3pyywgv9692ati2h7kt2k9,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 08:07:20,2020-07-23 08:08:35,f77c7b736f,
+tbi8t3br2iz4krxg7bx9tbi86u5yragw,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-23 08:04:52,2020-07-23 08:06:38,97aedce969,
+e46eeclvxgk31qj4ce460o3slxazwed9,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-23 08:04:35,2020-07-23 08:06:22,4f85868462,
+0b8nugay32yxcnak10b8nu6metzn0evz,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 08:04:00,2020-07-23 08:05:30,88e6a11088,
+5ewc4fucvbsl18ta5ewcquvmv68yj0jh,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 07:57:46,2020-07-23 08:00:15,c6f3269da2,
+c47wojqhd8pb1q88zc47wfc79qw347b3,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,1,2,1,12,2020-07-23 07:51:15,2020-07-23 07:53:32,b4c1b9dbef,
+810p0y9ansoz2azfqbrp810p0ud8vilf,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 07:51:19,2020-07-23 07:53:30,a7e1afd256,
+n3iic26wpflp4vpmay2kfn3iicenpt9h,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 07:49:54,2020-07-23 07:52:23,80eb12726f,
+uke5ciw5rbj6x11ukejbtxat8zppjbos,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-23 07:47:44,2020-07-23 07:49:44,b5c4dd2a48,
+z84mh40xcnoba8cr96z84hog6pvxkg8u,Bottle bank,1,2,2,Battery bank,1,1,1,2,2,1,1,1,2,1,12,2020-07-23 07:47:08,2020-07-23 07:48:40,0754cd598a,
+82uwrw9vio247sekm182uwrw9n2q6qo0,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 07:45:20,2020-07-23 07:47:58,5e87761f53,
+iw1bp3ledzgvmiw1bpc2t80ono0bdyhc,Bottle bank,1,1,1,Battery bank,1,1,1,1,1,1,2,1,2,1,13,2020-07-23 07:38:15,2020-07-23 07:40:41,5efbac188b,
+rkumvayw72u7o5x7vu8rkumv0bskt7vj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 07:37:49,2020-07-23 07:39:25,950ac4e3c5,
+xoe5v3d2slw5k8tgxoe5v3d2juajpudp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 07:33:55,2020-07-23 07:36:07,2e5a7b88f5,
+tr06hh9yvhmr8cytr06h7387eo4b3850,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-23 07:30:00,2020-07-23 07:32:48,198df423dd,
+t820s9bzq2ypw4s5m8t820s9ynov1jk4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,2,2,1,13,2020-07-23 07:24:05,2020-07-23 07:25:35,ae07469fa3,
+i6eagaco2wnm54lli6eavnj8polvskk8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 07:19:51,2020-07-23 07:21:19,eb321f8555,
+2iir5a00tqsxo8r1bmcq32iir5a00wl3,Bottle bank,1,1,2,Battery bank,1,1,1,2,1,1,2,1,2,1,13,2020-07-23 07:12:22,2020-07-23 07:15:33,64a4c307ef,
+3yo687flqentrn41cwdfe9gg3yo687f8,Bottle bank,1,1,1,Battery bank,1,2,1,2,2,1,2,2,2,1,11,2020-07-23 07:07:24,2020-07-23 07:10:02,d0bdb574d3,
+xetwi0r25r00f1j4j4jhjhyxetwi0rhj,Bottle bank,1,2,1,Battery bank,2,1,1,2,2,1,2,1,2,1,11,2020-07-23 07:02:04,2020-07-23 07:04:03,0f839a2161,
+l6jw5q0dk20rcbmk985ll6jw5qx9d5hu,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 06:53:49,2020-07-23 06:55:17,8a50e7fda2,
+vqkvhs19r8q571swdavqkvhjm20a7xam,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-23 06:51:33,2020-07-23 06:53:42,307593a898,
+nehu48igco1qyh668nehu48tzhsp08z7,Bottle bank,1,1,2,Battery bank,2,2,1,2,2,1,1,1,2,1,11,2020-07-23 06:49:35,2020-07-23 06:52:13,7e02b7a82a,
+zqwu2ae1jges0gu2pd7zqwu2awvuul3k,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,1,1,2,1,13,2020-07-23 06:46:44,2020-07-23 06:49:08,692d54ebf1,
+8r16yav8rp4v6j4t0d8rw25c9mgel55o,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 06:46:02,2020-07-23 06:48:11,f0b324f3df,
+brgy6lz7gcy3scedtrfmnbrgy6re3s8b,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-23 06:45:09,2020-07-23 06:46:53,566cef02d1,
+bigp417skdfv38zbigp3gk5fkn9cnf3y,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-23 06:43:32,2020-07-23 06:45:42,e452a71c76,
+8wbezpv6o6xm8q88wbezp0n0lyz18tfj,Bottle bank,1,2,2,Battery bank,2,1,1,1,2,1,1,1,1,1,11,2020-07-23 06:43:21,2020-07-23 06:44:57,688edac149,
+3r5cl6mh1jaqzbz57m3rpz61owle69z3,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 06:42:15,2020-07-23 06:44:04,48319bfe52,
+1ews7fmzicyupqo3o1ews9xoqglgxkhp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-23 06:38:43,2020-07-23 06:40:23,2fe8e64d8f,
+swvemxao6z3k9kswve4ijqikyz9rdh0w,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-23 06:36:49,2020-07-23 06:39:14,29ecb59f2f,
+2wu5ub124eyjpbcwu2wu5uxtfq21re00,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 06:36:45,2020-07-23 06:38:08,04ec96c151,
+b7lsv5p0caj2thq5b7lsv1pdtksxj8n7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-23 06:22:28,2020-07-23 06:24:16,a0347c6e69,
+fhecvugeuqc10zrwj4m1yfhelsfhnm49,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,1,2,1,13,2020-07-23 06:21:53,2020-07-23 06:24:04,c6ef8b27fa,
+3wmng3ntgb1vmjnm3wmngk7eerpmdzhx,Bottle bank,1,1,2,Battery bank,1,1,2,1,2,1,1,1,2,1,13,2020-07-23 06:00:58,2020-07-23 06:03:50,5872f6c5c9,
+82b31d62bnt6mh91787082b3xdfmjbwe,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 05:53:52,2020-07-23 05:55:45,a9e4cc9c90,
+sa0wysom0i5e7ujvr664lsa0wys53h7h,2,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,13,2020-07-23 05:51:38,2020-07-23 05:54:25,f60e42ea18,
+lhea06rq35md9jn7ngmlhea06reblw88,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,1,1,12,2020-07-23 05:48:07,2020-07-23 05:50:00,f136f16c9b,
+qqe2x6144km8niahq4qqe2x6fp4vw09b,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-23 05:39:15,2020-07-23 05:41:16,c78db6f36a,
+7uaf2q7zfypgyp7kzfk47uaf2q7zzw2i,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-23 05:32:31,2020-07-23 05:34:05,c9853ceaba,
+cia89ahoaxzhtjqpcia85kh75fkhq04h,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,2,2,1,13,2020-07-23 05:25:41,2020-07-23 05:27:27,5c2cc19cbf,
+bwwhvxxqyd1q16t1cxu5bwwhvxx60rz3,Bottle bank,1,2,2,Battery bank,2,2,1,1,2,1,2,1,2,1,12,2020-07-23 04:56:56,2020-07-23 04:58:55,320e046492,
+nypxj7gcqeud906aausnypxj7xmshpb5,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,2,2,1,12,2020-07-23 03:49:39,2020-07-23 03:52:02,2ba194e417,
+qd5u5r9579t3kb6g4fn8mqd5u5r9eo45,2,1,1,1,Battery bank,1,2,1,1,1,1,1,1,1,1,9,2020-07-23 02:06:52,2020-07-23 02:09:43,d5ce03a9ca,
+b25n1mual2f3yb2i3p4g8u1utg4ggot0,Bottle bank,1,2,1,Battery bank,1,1,1,2,1,1,2,2,1,2,8,2020-07-23 00:50:04,2020-07-23 00:52:15,f4afae47f0,
+iypeqdy4wxqvfindcyisbiypeqthrrsf,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-23 00:06:48,2020-07-23 00:09:26,d3406516e7,
+ip5wre34zil2rloeest1ip5wreksucpb,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 23:43:43,2020-07-22 23:46:01,c74fdc085c,
+ipmyopatzmia27k3idlripmyopaygk6e,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 23:29:01,2020-07-22 23:31:40,121a59c083,
+60qp9gbjn4zt9sqmha078ni760qp9gbj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 22:58:55,2020-07-22 23:00:31,545e98ddbc,
+dvc4jorouqyxv0dvc4ysmcdimmcn1lvl,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 22:35:53,2020-07-22 22:37:54,445dabe778,
+mmr8n3hus0fm9cv2i4q39bimmr8n9nbs,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,2,1,2,1,12,2020-07-22 22:31:49,2020-07-22 22:34:46,c6f7e13489,
+fet7pz3zzlaraejfetrukoy05zdueu9e,1,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 22:18:36,2020-07-22 22:20:57,eba9291720,
+kvzjw0w0qzraxeh9kvzlst667ad48pwb,Bottle bank,1,1,2,Battery bank,2,1,1,2,2,1,2,2,2,1,12,2020-07-22 21:57:39,2020-07-22 22:00:30,d5ae8865ff,
+gbddajmr1zp2aiz0orgbddaueolt2m2g,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 21:54:59,2020-07-22 21:56:55,2c22ef69d3,
+ozac85hytb86wqtggoozac853le6z9ik,Bottle bank,1,1,2,Battery bank,1,2,1,1,1,1,2,1,2,1,13,2020-07-22 21:54:23,2020-07-22 21:55:29,37ccd1755e,
+4uk93t8iwv4uncccsusm17x4cymhcj5i,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-22 21:48:04,2020-07-22 21:52:12,f769711ddf,
+1udzjqqza5uqrcpfbh1udzjqque2hs1p,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 21:46:15,2020-07-22 21:48:22,636da3dc52,
+323u3kjwcmonzs5av323u3kj9nwyj64r,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 21:42:42,2020-07-22 21:44:56,314ec48960,
+6sssakvtkjnmu4coojcnr6ssp7aav5si,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,2,1,13,2020-07-22 21:41:22,2020-07-22 21:43:18,d6d4a6eb23,
+4zxel1wbz4isae5vrzfx4zxel1w807il,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 21:40:39,2020-07-22 21:42:19,c7d47f0b0f,
+i48an62btsini40qvhcdq5rhrsm5kij0,Bottle bank,1,2,1,Battery bank,1,1,1,2,2,1,1,2,2,1,10,2020-07-22 21:35:24,2020-07-22 21:37:16,72acc62197,
+mgn8kqo3fjk102btmgn8uo5djoeefxsn,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 21:29:50,2020-07-22 21:31:44,06c1338a24,
+iys8zc881sm0tnqiysc09m0wckdei6od,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 21:24:57,2020-07-22 21:26:41,b7c37d58cd,
+hafah0d07k8hotx0hafahkm2ao0fh8wv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 21:23:16,2020-07-22 21:26:09,64c43c177c,
+odaftpy7y9l85dghg0odaftpi059kael,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 21:20:09,2020-07-22 21:21:55,25676c837b,
+vrqza6x29zmk2cmm7oryvrqzaaj78g1z,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 21:19:53,2020-07-22 21:21:40,d515203dc7,
+m2913917c5qnbt17wrm2915rbk8rq21q,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 21:19:17,2020-07-22 21:21:29,a99510cb63,
+nv0ajcc0nv06z6lunnv0aj0ownpzyias,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 21:16:31,2020-07-22 21:18:46,0811ba94df,
+cm2jm9649e64rs9jmx82ocm2jmzblhwq,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 21:15:35,2020-07-22 21:17:27,c00d2c2a4b,
+l2clq1hjquid4rs5vhl2clqjnrd1x0eh,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 21:12:23,2020-07-22 21:14:49,58bc178c61,
+jnpd3lmugph56m3x85jnpd3l92myzo4l,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,1,1,13,2020-07-22 21:12:29,2020-07-22 21:14:28,d01cc4e82a,
+th2mnvzjq20xl9y34zsg2dth2mnvzemc,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 21:11:18,2020-07-22 21:13:38,465d8e56d4,
+b34d4ctneal3bxk9fzb34d4ggdm0195r,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 21:01:56,2020-07-22 21:04:20,a485b9c3d9,
+9e7u0l38mdug8wca9d9e7ujglkvy5pdy,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 20:58:50,2020-07-22 21:00:56,6ba0f31034,
+yfswdfh6s5ez5yfi9486opc8yj3nmzht,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 20:58:56,2020-07-22 21:00:25,491b3ff47d,
+db03wp3a80844li9utdb03wp3a896l3r,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 20:57:51,2020-07-22 21:00:14,7984d5422b,
+7itecvh8u90bphg364m4aw7itecvh8ur,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 20:49:02,2020-07-22 20:51:48,27be0c038a,
+nnb5n5iujg44twt1nnb52a39ds6jefe9,Bottle bank,1,,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 20:48:17,2020-07-22 20:50:08,824d714978,
+v7ozti51hkyp7847ziv7oztmxkdh8noz,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 20:48:20,2020-07-22 20:49:54,dd773bb397,
+ec47xx8tlr81m0j96tec47xdz6coxmxy,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 20:42:49,2020-07-22 20:44:35,5a33c4d8fe,
+bzny1ttzfo92q2pr5hljx9bzny1tt08q,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 20:39:53,2020-07-22 20:42:25,8be431dad0,
+s8x570j404oj165essns8x5704vxxd3x,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 20:32:26,2020-07-22 20:34:49,7a8d14cf1d,
+nf70p32d33c9tql9t0zfnf70pz85hwlt,Bottle bank,1,1,2,1,1,1,1,2,2,1,1,1,1,1,11,2020-07-22 20:26:12,2020-07-22 20:28:52,363b17021f,
+1atoq43jo3r6cr51m8w1adz4w1vk2geh,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 20:21:21,2020-07-22 20:22:59,ece968e671,
+4e3b1hecrswxe0j0dg84e3b1h8xw44fy,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 20:15:18,2020-07-22 20:17:00,cccefc7f5d,
+kw3pg2pg5gey1sufekeckw30u0pusaju,Bottle bank,1,1,2,2,2,2,1,1,2,1,2,1,2,1,12,2020-07-22 20:13:21,2020-07-22 20:15:11,705daac93d,
+teckn0bqbqylqtvvslvtecknt9aie8pn,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 20:09:51,2020-07-22 20:11:35,f034e481d6,
+gysaeoi8wwsijkxsxlf2gysaeoihopd1,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,1,2,1,13,2020-07-22 20:05:05,2020-07-22 20:07:09,57ab8784d3,
+rej3ntmq7p6u2ss59hrej3iqzm7iw992,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,1,1,13,2020-07-22 20:05:04,2020-07-22 20:07:01,6ead2fa947,
+5ala94s755n7pwp3j5ala94yt1s4nmzu,Bottle bank,2,2,2,Battery bank,1,1,1,1,2,1,2,1,1,1,12,2020-07-22 20:02:06,2020-07-22 20:05:44,e88f151d81,
+2l2zvpxcuwiz71w72l2oumr3myj59z2y,Bottle bank,1,2,2,Battery bank,1,2,1,1,2,1,2,1,2,1,13,2020-07-22 20:02:23,2020-07-22 20:04:07,032279aa63,
+26kykg5h02q2ip6yrd4w3ri26kykg3dr,1,1,1,2,Battery bank,1,2,1,1,1,1,1,1,2,1,11,2020-07-22 20:00:43,2020-07-22 20:03:38,d362c20ec4,
+k81q87eh79zml91k81qe9mpgoqjo6wqr,Bottle bank,1,1,2,Battery bank,2,1,1,2,1,1,1,1,2,1,11,2020-07-22 19:57:19,2020-07-22 20:01:43,8c75ec2703,
+nenc6lbupy21qs6rowznenc6lfnr5uok,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 20:00:02,2020-07-22 20:01:31,54dffde213,
+zoxrgror307kmnhaj3wzoxrp9255nsgx,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 19:56:51,2020-07-22 19:58:10,1251c090a1,
+t45wavrxche014hd6t45wa9q9zrqb6qg,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 19:53:29,2020-07-22 19:55:52,83ac3396ba,
+vo28xkicc2billc27vo28xf5itx3p6bm,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 19:52:04,2020-07-22 19:54:43,730b8c9765,
+hih1oc2l94rdbwzfhhih1oeg6nobppz4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 19:50:55,2020-07-22 19:52:56,d8b50c7e25,
+sncf21aq4584h63sncf2kpynlx4pig6t,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 19:47:22,2020-07-22 19:48:55,3f3df1e357,
+k9z4ek0hlncsbauhsu6hms5k9z4ek0ey,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 19:42:07,2020-07-22 19:44:01,b00b062f15,
+pfvjtz1aqfxlxpu4rwpfvjm4qlrfqcz3,Bottle bank,1,2,1,Battery bank,1,1,1,2,2,1,1,1,2,1,11,2020-07-22 19:41:32,2020-07-22 19:43:45,f5dd62bccf,
+mwera2nwa5bkv0ucawumwera2nuy9fvq,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 19:38:16,2020-07-22 19:40:16,1e70d1f3c0,
+gn73ofjjm0kzhrzau1mgn73ofewbfxoi,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 19:33:36,2020-07-22 19:35:30,475cb93235,
+xko2ehx32sdv29y6ecxko2ehxaz91z76,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 19:33:04,2020-07-22 19:35:03,c5b662ca34,
+3ankscyrclz7xit01fjui3ankscy6rzh,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 19:30:26,2020-07-22 19:33:46,0404352a8a,
+iirvhd3x5ns1kpsqeqf1u974iirvhd3x,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 19:31:06,2020-07-22 19:32:50,31260fc128,
+ozhkihgh80jk1ttuu72pxozhkihgdknn,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,1,1,13,2020-07-22 19:29:36,2020-07-22 19:31:36,e0215aca4c,
+n41m6prxft9hbzy6n41mztgfqez2jhxa,Bottle bank,1,1,1,Battery bank,2,1,1,1,2,1,1,1,1,1,11,2020-07-22 19:29:19,2020-07-22 19:30:55,0435e0aeb5,
+x8hok3yu7nc4mdy8wx8ho0n0l9stxw17,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 19:22:12,2020-07-22 19:24:35,fc7abcc71d,
+rujove1138d1f1tveruokdk9t9ywpj94,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,,14,2020-07-22 19:19:47,2020-07-22 19:21:31,765fc3ffbc,
+zs6n7zsxwbx1em79z2jzs6n7ggbsztv7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 19:16:03,2020-07-22 19:18:10,cd6b62b1ea,
+yfpdl2zk05alyfpdizq9g15hssufcmcp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 19:12:36,2020-07-22 19:14:26,a69947a084,
+u05pt5czlyw0dc1kw7ektld8u05pt5y3,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 19:11:41,2020-07-22 19:13:47,eb150afae9,
+jhgzlg7vu4qw5kbwjhgzhc25d5ol4a4k,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 19:08:46,2020-07-22 19:10:26,2edf15092d,
+rn8r0exjyl6z0u526urrn8r0ek2n6vg9,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,1,2,1,13,2020-07-22 19:04:00,2020-07-22 19:06:14,e736277284,
+as7166flq7ygv4aiubfas738thgikgwy,,1,1,1,Battery bank,1,1,1,1,2,1,1,1,1,1,11,2020-07-22 19:03:01,2020-07-22 19:06:12,0f334b9e82,
+o49tjfiz8z6ox6f7o3so49tta1ln8tcj,Bottle bank,1,1,1,Battery bank,2,1,1,1,2,1,1,1,2,1,12,2020-07-22 18:56:29,2020-07-22 19:00:01,6226247d22,
+xytwexhnjijiuxesxytwij2vzr405iaj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 18:57:35,2020-07-22 18:59:59,4cda5540ce,
+0lo4jw70z4rp8kevp2iuz0lo4ji6bnjb,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 18:56:27,2020-07-22 18:58:19,5e994fee0e,
+bzwy0vcntvnh6pd9yiq6bzwy0wlqwqcj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 18:53:45,2020-07-22 18:57:33,531a450df9,
+l52rwy9193xkiga2eqq3hnkl52rwy9ic,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 18:52:46,2020-07-22 18:54:33,327f30f68b,
+ky84nm1j57wn0ouhh4f6yky84n2w8w7n,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 18:52:14,2020-07-22 18:54:07,13bd370c59,
+r736d2nrfq3nf0b6gir736d2ne56no4q,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 18:51:29,2020-07-22 18:53:17,7d26ff2e95,
+x9dd9qijwwdfbn3eg33sx9dd9qec3kt4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 18:50:24,2020-07-22 18:51:55,b0642d91c5,
+2i3jy8l8j68d9raxsfc2i3jy85muvj6z,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 18:46:29,2020-07-22 18:49:11,99d47e7cd0,
+jgrug3nzfe6us8k31jgrug30zdidearz,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,2,2,1,11,2020-07-22 18:46:19,2020-07-22 18:48:44,636da3dc52,
+b9tugzzdfmf9kb6g5eeb9tugzuzmeja1,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 18:45:09,2020-07-22 18:46:39,c360848607,
+7xyp421wn7bx7xyma5knwi1s4mmafuet,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 18:41:27,2020-07-22 18:43:41,7f538781a4,
+z2ag127zdxrk1az6cu56jrqvowp9shd6,Bottle bank,1,1,2,Battery bank,1,1,1,1,1,1,1,1,2,1,13,2020-07-22 18:40:30,2020-07-22 18:42:29,edab05b59d,
+prin7xglar42c444ejitn9prin7xeujo,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 18:33:53,2020-07-22 18:37:04,f47ca24097,
+kk3rhbodtkascefc8ukk3rhbqndh6hef,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,1,1,2,1,13,2020-07-22 18:34:33,2020-07-22 18:36:07,bf49e2c698,
+e72h0y8qxk2q2je72h0a2uj4edj3xrnc,Bottle bank,1,1,1,2,1,1,1,1,2,1,2,1,2,2,12,2020-07-22 18:32:01,2020-07-22 18:34:29,4ae33ac812,
+m55kc96agsbtg7naynm55kc966kdu31h,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,1,1,13,2020-07-22 18:32:20,2020-07-22 18:34:10,73089c5ab0,
+rfps47p8cnda8kerfpsxodpnnu1ng0a0,Bottle bank,1,1,1,Battery bank,2,1,1,1,2,1,2,1,2,1,13,2020-07-22 18:30:56,2020-07-22 18:33:56,7c54b78f07,
+by3ev8gwn69vzg0p8by3ey7i0d4alq86,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,1,1,13,2020-07-22 18:32:00,2020-07-22 18:33:41,3a50da6ac9,
+f78eis079qevsai7wpcf78ei7iupajis,Bottle bank,1,1,1,Battery bank,,1,1,1,1,1,1,2,,1,9,2020-07-22 18:22:32,2020-07-22 18:27:07,fe575bcec9,
+mipmdis9tt5jv0bamipmf00a7m7xe2h2,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 18:24:21,2020-07-22 18:26:40,dde3f022bd,
+kdx27wiq5l97s48jnkdx2y14azt4aqzb,Bottle bank,1,1,2,Battery bank,1,1,2,1,2,1,1,1,2,1,13,2020-07-22 18:21:36,2020-07-22 18:23:09,d49169661d,
+v9fertkeaknk4oqsv9fe8tt0uor6qe2l,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 18:21:08,2020-07-22 18:22:47,35103bd8f5,
+zssfvkfey2skabr2mizssfvkitvf3hks,Bottle bank,1,1,1,Battery bank,1,2,1,1,2,1,2,1,2,1,13,2020-07-22 18:20:11,2020-07-22 18:22:01,4e9be8d9ff,
+ye59sqapyb8x6z64voioye59s32u6ono,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 18:19:32,2020-07-22 18:21:29,8c9a0f3ab7,
+bdmz9lnf3kqqqo0jitibdmz9ln7m98in,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,2,2,1,2,1,13,2020-07-22 18:18:45,2020-07-22 18:20:08,46786b5934,
+y6welw43mxezt9a9y6wel1ed2bsxcz9o,Bottle bank,1,1,2,Battery bank,1,2,2,1,1,1,2,1,2,1,12,2020-07-22 18:13:37,2020-07-22 18:19:39,1f4f4ca358,
+m06c61l3n0pfn5rk4u38xlm06c61lyo6,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,2,2,2,1,11,2020-07-22 18:12:26,2020-07-22 18:14:04,0d50007c18,
+mrylbvm44l2ro972epnntmry7x91449t,Bottle bank,1,1,2,Battery bank,1,1,2,2,1,1,2,1,2,1,12,2020-07-22 18:11:47,2020-07-22 18:13:59,423bb3f9e3,
+sb4o6yhgnff367g725frsb4o6ynpw1bz,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 18:09:50,2020-07-22 18:13:04,62e840a9c6,
+zypqpxbmj5aowrbltz5m45tyyzi8nrn9,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 18:08:30,2020-07-22 18:11:19,d1df07bc1b,
+ak9v0vkphwn42hxrsvak9krltxuo7lze,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,2,2,1,12,2020-07-22 18:09:12,2020-07-22 18:11:17,9a422fe66e,
+3ubd1xa705tws4i3ubh9vtlw6wbyatwv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 18:09:25,2020-07-22 18:11:07,30786216a6,
+5g2wv5z8dodflzju0lf5g2wvoelb73j8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 18:09:05,2020-07-22 18:10:56,46ca501d07,
+5k8dfuhx1xvjdhac5k8df3566xa689f5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 18:03:10,2020-07-22 18:10:30,7b93da16a2,
+dnx7y1oewaqibentyuxdnx7y1l2fg67b,Bottle bank,1,1,2,Battery bank,2,1,1,2,2,1,1,1,2,1,12,2020-07-22 18:05:08,2020-07-22 18:07:07,d5a4fe0406,
+zmta5ff6i0j5ighhjv8n9p2zmta5ff61,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 18:03:58,2020-07-22 18:05:08,98a660da94,
+4l39as5egjkd1e24l39apnzo086wl0tc,1,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-22 18:02:01,2020-07-22 18:03:38,98a660da94,
+cbruzk9w8ob7yv6xse1c0cbruzrczppk,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 17:58:43,2020-07-22 18:01:44,a7d2b148fa,
+rp8myilotwik5arp8mfh2gxhfk1jk3se,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 17:57:19,2020-07-22 17:59:12,7496c02ce7,
+wwjqy5wgwo057shn8hwwjqybzlxh76yk,Bottle bank,1,1,1,Battery bank,1,1,1,2,1,1,1,1,2,1,11,2020-07-22 17:55:54,2020-07-22 17:58:27,bd64934854,
+cib3di0e60l95240spwycib3diozofzv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 17:55:02,2020-07-22 17:58:24,1923c8d7e9,
+n1gslg1sxsldtbd10tupern1gslg1ly5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 17:56:18,2020-07-22 17:57:31,fd8436891b,
+nvmq113ay7m7sfwd4gsrnvmq1125gq5s,Bottle bank,1,1,,,,2,,1,2,1,2,1,2,1,10,2020-07-22 17:54:19,2020-07-22 17:55:42,ac9bf9162f,
+hy824d4h4bnfmig9hy824d4wuc5okzi5,Bottle bank,1,1,1,Battery bank,1,1,1,1,1,1,1,1,1,1,11,2020-07-22 17:52:35,2020-07-22 17:55:03,fd8436891b,
+qqlkf8dqopqaks9oqql3bq0nbv4l7osb,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 17:53:23,2020-07-22 17:54:56,5a80b77131,
+0px38vvysntwtu150px38bcru0t51mah,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 17:52:25,2020-07-22 17:54:18,0f87bbe3b5,
+xagjyndbowrecxagjthxz907vspt6fjn,Bottle bank,1,1,2,Battery bank,2,2,2,2,2,1,1,1,2,1,10,2020-07-22 17:48:44,2020-07-22 17:51:30,37800c967c,
+16rtizau330885y5cf16rtizzj6yokxu,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 17:48:49,2020-07-22 17:50:48,909b84b9fe,
+5gtg0pbwknn98jsoh5gtby7a2ww0a594,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 17:48:15,2020-07-22 17:50:47,1341c23403,
+p3pkf9q0g33zadmbp3pb10n4ouv4tzrx,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 17:48:53,2020-07-22 17:50:24,2bfa799e5d,
+zf14sblzsarszie2be3zf14z015cdpq5,1,1,2,2,Battery bank,1,2,1,2,1,1,2,2,2,2,8,2020-07-22 17:43:26,2020-07-22 17:45:17,00013fea88,
+hand2kg58nfbcfnac1gkhan9q2kyylb2,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 17:43:55,2020-07-22 17:45:15,c1a82c2232,
+ijvzlxro3o5q7kab832a65ijvzlx6tbb,Bottle bank,1,1,1,Battery bank,1,1,1,2,1,1,2,1,1,1,11,2020-07-22 17:42:43,2020-07-22 17:44:59,fa68ec5572,
+9gtze26xrb6qslfxafhag9gtze26ju8m,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 17:41:48,2020-07-22 17:44:14,8f8fd0ccb5,
+6ku3zh698bnta4bj0lnmptkw6ku35j9n,Bottle bank,1,1,2,Battery bank,1,1,2,1,2,1,1,1,2,1,13,2020-07-22 17:41:26,2020-07-22 17:43:02,b76ed92d36,
+kwgtfyeqcw9ju4437kwgtsayxcxis9dm,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 17:40:14,2020-07-22 17:42:06,c98daab10d,
+pxbhxse6sk0u9mkvc9epxbhr6n9zoyig,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 17:39:43,2020-07-22 17:41:31,5a1f1973e4,
+9it0mdn9pihp6hobfgg9it0mdnpvzkki,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,2,1,13,2020-07-22 17:38:14,2020-07-22 17:39:50,d5fc2ff6f6,
+4pph0l9p3g6qny1015ez4pph05ntymjb,Bottle bank,1,1,1,Battery bank,2,1,1,1,2,1,2,1,2,1,13,2020-07-22 17:37:46,2020-07-22 17:39:31,44f4153a39,
+wzyof96rbp5wurznlfw8wzyof96rb4n8,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 17:35:56,2020-07-22 17:38:23,a77fa3bb41,
+2a50h4ja9ar92a51s7ly9upv9w2lajcc,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 17:35:34,2020-07-22 17:37:22,cb9b8be336,
+9e8ph4wx8md4zdvxg9e82r5u7bfnle06,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,2,2,1,12,2020-07-22 17:34:31,2020-07-22 17:35:45,fb14b6be7d,
+lhfo3zz00b0nn6rdjhlhfo3z8cj897qa,Bottle bank,1,1,2,Battery bank,1,2,1,1,1,1,1,1,2,1,12,2020-07-22 17:31:40,2020-07-22 17:34:24,7af41f957d,
+96bvrzqbhjmga896bvri97oolh244aen,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 17:32:04,2020-07-22 17:33:54,e63c5f6801,
+zvq5hyohijbmjwvyazvq5hlch7z0a6v7,Bottle bank,1,2,2,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-22 17:30:53,2020-07-22 17:32:50,c880e7540b,
+w85hh7ruikge30etuafvrw85hh7qjeoo,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 17:30:55,2020-07-22 17:32:31,939dddfce9,
+bkrzqqcsdcrk2b788b3bkrzqqcqkipby,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,2,2,1,11,2020-07-22 17:29:08,2020-07-22 17:31:42,58ed12f625,
+yp3lbnpcvclesf5v19e4c7yp3lbnp4y7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 17:28:47,2020-07-22 17:30:22,875af690bb,
+rz19uiv4kitfwrz19to4bib3q65i90dw,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 17:28:14,2020-07-22 17:29:58,2b54152f0b,
+2r6p2m8dqsf192r6pi521wdcmrc5lmd0,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 17:24:30,2020-07-22 17:26:34,5dcd218522,
+6479ytmsltj3rpdc6479goroqlvmepor,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 17:21:45,2020-07-22 17:24:56,d5a2d63577,
+ng4g4ups7uaphng4g4rgsk1p8udwi9ts,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 17:22:34,2020-07-22 17:24:55,171ac4941a,
+qxw8liph63mdw9mlqxw8lfjf3of6a8vm,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 17:19:43,2020-07-22 17:22:34,ffdc9e5952,
+y3rmohzk4vczskb4r87ly3rmohzrowlg,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 17:20:12,2020-07-22 17:22:24,f444f0bfcc,
+r65sq3l3pkcxp3x2lrmr65sq32vnx0ya,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 17:17:51,2020-07-22 17:20:14,50a4345e95,
+76kr66yuemp3108a5t1t76kr6o2rzl7j,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,2,2,1,13,2020-07-22 17:17:47,2020-07-22 17:20:06,95bf7a6708,
+8qbtyehfyzndona8cyre8qbti15fiplq,Bottle bank,1,2,1,Battery bank,1,1,1,1,2,1,1,1,2,1,12,2020-07-22 17:15:09,2020-07-22 17:18:29,ef02d32208,
+fa6rxeetvr0o1rihg7fa6rxe36cgckw6,Bottle bank,1,1,1,Battery bank,1,2,1,1,2,1,2,1,2,1,13,2020-07-22 17:12:37,2020-07-22 17:14:20,977f4dfe2e,
+lt19gyh1fuzmgrlt0xliz6j9hc4gg4p0,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 17:08:07,2020-07-22 17:10:03,a0796eb687,
+j8nsxbvhn9jheem7p5cd8muj8nsxb8qs,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,1,1,13,2020-07-22 17:06:34,2020-07-22 17:08:41,e9b6bf1b82,
+mablnddync8xdan69jumablnx0sj988t,Bottle bank,1,2,2,Battery bank,1,2,2,1,2,1,2,1,1,1,11,2020-07-22 17:05:12,2020-07-22 17:07:27,5bb755c541,
+buy2ykjgk3acqy7a0019mbuy2y7f3wcq,Bottle bank,1,2,2,Battery bank,1,1,1,2,2,1,2,1,1,1,12,2020-07-22 17:02:49,2020-07-22 17:05:29,e5354641f9,
+1r7ij7tc26e5ec61r7i4w5pqvsljtcsf,Bottle bank,1,1,1,Battery bank,2,1,1,2,2,1,2,1,1,1,11,2020-07-22 17:02:28,2020-07-22 17:04:38,1d4130688f,
+bd8cc2sgi9y40s2vbdl7dpw2xlaahyz5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 17:01:20,2020-07-22 17:03:30,a26bd965fd,
+qikp3oelduwpni4klfb17yxyqikp3pfv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 17:00:44,2020-07-22 17:02:12,a64253d002,
+pj1eb77py7sbjid12fpj1e6eum1ldfv4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:57:39,2020-07-22 17:02:12,85d497effe,
+273lrc87z01skupy273l3si5filiv6p4,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 16:57:41,2020-07-22 17:01:06,fbf9e727d8,
+vuc3j19eiijkbfzjhu92vuc3j19owg5e,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,2,1,1,10,2020-07-22 16:59:24,2020-07-22 17:00:47,d6d88fe8cc,
+qzjmkjx1gp1jmer018qzjmkjxxwahbem,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 16:57:19,2020-07-22 17:00:31,495fae7f93,
+91avoavoq6yld3xw91avoav7rmxz0his,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:56:52,2020-07-22 16:59:33,57afe8b99e,
+iglv4tehms6068gqiglv4829ok8yj106,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 16:54:41,2020-07-22 16:56:30,9521b79798,
+pdr6uqj48sujbkylzpdr6uuky4ogo2tn,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 16:52:41,2020-07-22 16:55:49,228e565fa1,
+7euaqu2n3ajshv6rir77euaqu2mmbjuk,Bottle bank,1,1,2,Battery bank,1,2,2,1,2,1,1,1,2,1,12,2020-07-22 16:54:15,2020-07-22 16:55:49,cf8e30c085,
+zpq7cux64cu5cwzpq7cu7ps5c1onmvi9,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 16:53:52,2020-07-22 16:55:28,ef54e2022a,
+46u56h75rat2u5g46u56owa90a89uyu9,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:54:03,2020-07-22 16:55:16,ee8810e36d,
+zn9kndsn9g3vz6zswe2zn9knibnwu1ae,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:52:28,2020-07-22 16:54:11,1923c8d7e9,
+rpelwkqnslcqsx2glj0rpelwkbw3l876,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 16:52:50,2020-07-22 16:54:11,58ed12f625,
+agff0gx0n2zyed0d9agff0npr0ajtzm4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,2,14,2020-07-22 16:51:50,2020-07-22 16:53:45,ee8810e36d,
+ys290oezlgr2z2ys290d6o95mtr6ewjr,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:49:32,2020-07-22 16:53:24,6d8db05d5e,
+9cgb8j304mv6s19u5rym9cgb8j30xw4g,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,2,2,1,12,2020-07-22 16:51:29,2020-07-22 16:52:39,58ed12f625,
+mbqwvschz9vg1dmbqhh82xdnkbu5hruo,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:48:55,2020-07-22 16:50:18,4ef76268b1,
+r9g3w8nc3afx9qzzlmrx4nr9g3w8nt9c,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 16:48:02,2020-07-22 16:49:33,36c3fe8ddc,
+rbura3aac7yllid4mdrburcs7aq6xlf5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:46:55,2020-07-22 16:48:44,dec3a61069,
+1aofpe7o2969any9z71aofp7o8f9484d,Bottle bank,1,2,2,Battery bank,1,2,1,1,2,1,2,2,2,1,12,2020-07-22 16:45:25,2020-07-22 16:47:28,587ce01a9f,
+x3uwz2lwg6unkke2x3uwz26ex2x6fnv6,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 16:44:58,2020-07-22 16:46:39,b9a2e96518,
+37swnl5uvfqj6tuji37swnl5ukzy5m87,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 16:43:41,2020-07-22 16:45:57,9fe2845690,
+nu8dt0at4q6496bx4xnu8pboryljkj3k,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:43:27,2020-07-22 16:44:34,ead70c005c,
+rktxefxc6nh9ba8mvgrktxeok9yv9zi2,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 16:40:23,2020-07-22 16:42:03,ecb3682f2c,
+gt3j7tflvjbmde9d120edlgt3jwxsra9,Bottle bank,1,1,,Battery bank,1,1,1,2,,1,2,1,2,1,12,2020-07-22 16:39:42,2020-07-22 16:41:37,5454fcad84,
+u074aiafxsun2ln9u074ag595dt5m9nx,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 16:39:06,2020-07-22 16:41:01,35cecdc97a,
+ss6m4tfp3w33j3d3662ss6m4h0t3bost,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 16:38:57,2020-07-22 16:40:36,f54c4f7721,
+fnpd6vbvpzz1hixnhkm7fnpd61fmd4c3,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 16:36:40,2020-07-22 16:38:27,953df2cfe9,
+3odsbm6yz7vfz2y213odsbahxlsldknj,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 16:33:39,2020-07-22 16:36:32,e475e1c40f,
+ydzo69g73k95f3zwv2fq2ydzok96hnn6,1,1,2,2,Battery bank,2,2,2,2,1,1,2,2,2,1,7,2020-07-22 16:34:08,2020-07-22 16:36:28,ca8c6e7bac,
+tpjt6vhdxv9e9bwtpjt6tecyvp5lzqjn,Bottle bank,1,2,2,Battery bank,2,1,1,2,2,1,1,1,2,1,11,2020-07-22 16:34:20,2020-07-22 16:36:26,6ae9e3b70a,
+m2oizlwq9sdsb5765lf5m2oizlljd8l3,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-22 16:33:57,2020-07-22 16:36:24,9d7a7bd9ea,
+v2813dx15j9p6ulsj25v281s7jn0habq,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 16:33:20,2020-07-22 16:35:38,d8f64c57ad,
+zi004tyx1fy4fg58nzi004b8xao92rbd,1,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,2,12,2020-07-22 16:33:23,2020-07-22 16:35:30,468a5f8554,
+ggyi8fzaf0aeevepggyi8fzt30qbckhb,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:31:20,2020-07-22 16:35:11,77ac130310,
+rsilc4a982r5amzb9rsilc4wy9mc8wg8,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 16:04:34,2020-07-22 16:33:32,db64b18ced,
+q8jibvcp0p328svgfaq8jdp263rbluih,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 16:30:38,2020-07-22 16:32:15,9ea4d1c45e,
+v90yc80n61p4appv90ynupeeb1w31i91,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 16:28:48,2020-07-22 16:31:21,43f6456c0a,
+ldphjpfbz6zt865uz83ldphjpumrufge,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 16:29:26,2020-07-22 16:31:13,195e7653ff,
+3hh65i76p6frg33zyqfz13hh65gd5e02,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:27:32,2020-07-22 16:29:12,b16263dd51,
+t7pflqo961l21o9airrbt7pflqoogi4c,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 16:27:17,2020-07-22 16:29:03,342b4a1789,
+bdyuunxnc42bdyzpelnwl17hbddzpelx,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:25:21,2020-07-22 16:27:06,ece04cc773,
+k05wlvgsnn7triaeg198d3fk05wlvjul,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 16:24:39,2020-07-22 16:26:52,6929ea0b93,
+1ex2t6mm43sg9v7cpgf41ex21vln41ve,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:24:11,2020-07-22 16:26:50,78d381a2be,
+0c9gssyx8wj6q4wp0c9rxet9kxtm7vbk,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,,1,1,2,1,12,2020-07-22 16:23:14,2020-07-22 16:25:28,0f943357d4,
+69plgdwsryza90fyfgv69pl58epr4qfn,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 16:21:12,2020-07-22 16:23:35,a211fb349f,
+p28s7s8a6kugwfu5hp28s7s8ugy0do21,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 16:18:16,2020-07-22 16:19:57,81c15542c5,
+0984pxazwc8wsw0y6e0984pxmaoyo1f3,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 16:18:02,2020-07-22 16:19:32,f3fbd73871,
+sgtg39nwev0zytfdsgtg3un7oqow2l30,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:17:48,2020-07-22 16:19:30,c06762d899,
+7m8ff8szpq87q82bh4z47m8ffg3eva98,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:17:18,2020-07-22 16:19:18,c4880f3b6a,
+njvr18jzzqnyq3smirnjvr188uit1dc0,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 16:16:05,2020-07-22 16:18:16,650b3477cb,
+jlwmktkk86hmmhnhygh8ljlwmktkk17a,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 16:15:57,2020-07-22 16:17:32,4c64f2049b,
+avgroe1sy62i5l69mh03davgroef9i1j,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 16:15:35,2020-07-22 16:17:29,e5ba183af7,
+4ccml0n2dzpf1984ccmnq2t23q229znk,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 16:12:45,2020-07-22 16:14:56,4d3c10ccb4,
+861mcnx56h6yoz0861addsysmze4qe27,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:12:32,2020-07-22 16:14:28,aaf7b92bc0,
+bh3spdxeocdugomubh3shaz6yn6qyizp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 16:11:52,2020-07-22 16:13:23,4b4334f7fc,
+80szsq7tkk8fpyjp80szzz1soza8jnjt,Bottle bank,1,2,2,Battery bank,1,1,1,2,2,1,1,1,1,1,11,2020-07-22 16:09:41,2020-07-22 16:11:22,10bba980ad,
+slm4q093ckjy2urebweslm4q1q0ywl8f,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,2,2,1,13,2020-07-22 16:08:42,2020-07-22 16:11:06,ee5c2c6265,
+wf9dtf3cyvc3a0wf94sjiis2k16arxv4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:09:21,2020-07-22 16:10:29,b3fc046c13,
+b4f94iiwsaew69g7qb4f6thdddyo8rjy,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,2,1,1,1,11,2020-07-22 16:07:58,2020-07-22 16:09:55,dab910838c,
+16hfx163m26uu6mfn1of16hfx16cj3ox,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 16:07:07,2020-07-22 16:09:14,526e6f210d,
+bsyw6fohzutuidm13p9jbsyw6yfaza3a,Bottle bank,1,2,1,Battery bank,2,1,1,2,2,1,2,2,2,2,9,2020-07-22 16:06:33,2020-07-22 16:08:31,41077b0f7d,
+3k8w51zncjva843k8w5i6yvulbrv4ezh,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:05:54,2020-07-22 16:08:16,ca19bb58f0,
+fssdjbw9f0oasafxfssdrq9u935t4kms,Bottle bank,1,2,2,Battery bank,1,1,1,2,1,2,1,1,1,1,9,2020-07-22 16:04:53,2020-07-22 16:07:24,4fb7847d40,
+n5juor7icxxpoe4n5jum4zuhr5l4gmh1,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 16:05:07,2020-07-22 16:07:20,6dafc29cfb,
+0ksjycvsosrcg8fipc0ksjvb1acivv0w,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:05:56,2020-07-22 16:07:10,1ad98a04ad,
+mqegehy1sb09n7eilx3cmqegeehponio,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:02:57,2020-07-22 16:06:01,72ac122118,
+ponhv51gjfglwbbpiwponh7prmjb960u,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:04:11,2020-07-22 16:05:39,1f561f2eed,
+0b4sigdenrxtw0b4sixwjft09827amno,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,2,2,1,12,2020-07-22 16:03:25,2020-07-22 16:05:21,c338ceeb85,
+a74fj09z1hj04ww8a74ff113w6t3u0g7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:03:12,2020-07-22 16:04:51,3c20d6d6fa,
+k6jdnhxzj6ufqj6pk6k4k8pd5145lk5o,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:03:09,2020-07-22 16:04:41,5057167d97,
+dmgmcet2nq72vcvmlumkspladmgmcet2,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 16:02:09,2020-07-22 16:04:22,123f38eb12,
+j7ynylc8r020ghkiyyuj7ynykk947zkw,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,2,2,1,13,2020-07-22 16:02:22,2020-07-22 16:04:15,f4061e8d1a,
+bu2mz3rtb4k6qvg5645bu2mk7k4y6bvt,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 16:01:01,2020-07-22 16:02:43,b70197c32e,
+ykpzf3ogyfbuz8wdnykpzf3zcbkmj0n9,Bottle bank,1,1,2,Battery bank,1,2,1,2,1,1,2,1,2,1,12,2020-07-22 15:59:52,2020-07-22 16:01:52,60627ddf0c,
+1c010h5univqcxkwhj1c01vyf3z1bdx5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 16:00:20,2020-07-22 16:01:30,0e0437e77e,
+7pn2ae5s91clv0w7pn2wga1iw6lhj5z1,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,1,1,2,1,13,2020-07-22 15:58:20,2020-07-22 16:00:15,457df7ac76,
+jlg8z7ka01mw5jji4lwjlg8z7gvjtulz,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 15:56:47,2020-07-22 15:59:25,a05f459421,
+xmzzqdulq4xlyvbc0tsxmzzqd3rxmebr,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:56:43,2020-07-22 15:58:49,f155afcfe9,
+zfujubl2gh99wsruzfu34f3dra2prfyp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:56:57,2020-07-22 15:58:22,07f860194a,
+i58s99hy52d8zs010ai58zcepo6fokfu,Bottle bank,2,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,12,2020-07-22 15:53:57,2020-07-22 15:58:03,b872e44eb2,
+uyap3nwblpqdo427z7saokuyap3nwb7l,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,1,1,12,2020-07-22 15:55:31,2020-07-22 15:57:48,160e77c6e9,
+xlzy1eq058tiz33wlxlzy1ei2g5c24nt,Bottle bank,1,2,1,Battery bank,1,2,1,1,2,1,1,1,2,1,11,2020-07-22 15:51:51,2020-07-22 15:56:26,f155afcfe9,
+mval3kj4ai1chnqltymval3kqbr9jqsp,1,1,2,2,Battery bank,1,1,2,1,2,1,1,1,2,1,11,2020-07-22 15:52:07,2020-07-22 15:53:39,0e0437e77e,
+fk5rlnhu6vd3fk5g9n1vovpdusof2rji,Bottle bank,1,1,1,,1,1,1,2,2,1,2,1,2,1,12,2020-07-22 15:51:31,2020-07-22 15:53:33,4f90e069c7,
+gz2uciqfcj6wg7phy1gz2uci67etag1w,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 15:41:06,2020-07-22 15:52:09,0cceb7a67c,
+umf5mnhrd1b0xe74cxl1umf5mnhy7esb,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 15:49:55,2020-07-22 15:51:24,52534a4426,
+75qc15khh5pjlvttezm75qczfodf6y2z,Bottle bank,1,1,1,Battery bank,1,2,1,1,1,1,,1,2,1,11,2020-07-22 15:48:34,2020-07-22 15:50:58,4f41452726,
+3wk2xsyu2tnn9hqkz3wk2x6rcul4s8zp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:48:06,2020-07-22 15:50:23,799d86c182,
+13ctr8yldasuwke213case20tgrabqzc,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:46:57,2020-07-22 15:50:14,fe10c13a28,
+zxlgrbbukdw5gyz4z3rtk2zxlgrb2qw7,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 15:47:33,2020-07-22 15:49:11,630b2cb88a,
+l2lu490fmssl2l6s41avx0pp1f6s41a2,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 15:46:50,2020-07-22 15:48:54,2b2582aa5d,
+r9e18tf1uryypwj4zr9e18z1swgi3zy8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:45:47,2020-07-22 15:47:58,123f38eb12,
+3h8vytte35ururtc3h8vyk0ou2wotltj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 15:45:06,2020-07-22 15:47:47,409939d7a1,
+6zd3j6m9z9jvu6zd3jcmzah88dslnla5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 15:45:03,2020-07-22 15:46:56,b8f1d7234b,
+ht4olxgnfnhvih8ht4o35quuqwuq1a0x,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 15:45:10,2020-07-22 15:46:43,bd2a932e2e,
+uzsh7kk0h645sxl0b8uzswfj74tqmf6r,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,2,2,12,2020-07-22 15:44:38,2020-07-22 15:46:38,a9a7d6f48a,
+nbb3ydtyt0np8rnbb3yaitj5jy5u8vmo,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 15:44:31,2020-07-22 15:46:33,069178ad38,
+b6hlytg0gar9l3jb6h0a99yn71zmlepi,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:44:22,2020-07-22 15:46:13,c153ae9239,
+16ghf2bodlopd5f6puce16ghfyxwkmdc,Bottle bank,1,2,2,Battery bank,1,1,1,2,2,1,1,1,2,1,12,2020-07-22 15:44:09,2020-07-22 15:46:11,d792e85efc,
+g6oovhdjbmjz6d0d3kjg6oo6p5ophvge,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:43:17,2020-07-22 15:45:44,e99f195d84,
+v05oxkexibps7gpxqtrv3zv05oxerim1,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:42:40,2020-07-22 15:45:05,66484f3799,
+nm6ugbq9zdu0610qavawnm6uzicfa82n,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 15:43:24,2020-07-22 15:44:33,11ca6da539,
+xt3fp5yc0qwypxt3f7jb49eu9c6oqmt8,Bottle bank,1,1,1,Battery bank,1,2,1,2,2,1,1,1,2,1,11,2020-07-22 15:42:48,2020-07-22 15:44:31,263938ca71,
+4p231h5jgep0nkzwe74p2008cshb53cc,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:42:36,2020-07-22 15:44:09,8f2cf034a5,
+cu1qce8pcdr1fmue5akcjcu1qc1lq27n,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 15:40:38,2020-07-22 15:42:22,4f596b8606,
+axhsbvbz8ezlws0jnk7axhsbvbjmis5r,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:40:33,2020-07-22 15:42:21,4061b52eed,
+uepcg5nnls07hiv1ypkcao2uepcg5wrv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:39:08,2020-07-22 15:41:40,459c7e2f16,
+lcbqy37v8ewh001vtflcbqyie7osn3e7,Bottle bank,1,2,1,Battery bank,1,2,1,2,1,1,2,2,1,1,8,2020-07-22 15:38:04,2020-07-22 15:40:09,cb4a757ab6,
+ot1pw1c87afsqhbot1pupr4tbhr4n4y6,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:32:10,2020-07-22 15:38:16,c77c9279cc,
+btjlfr70l6ggs5c6fbtjlfr3hlei0rvn,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 15:35:14,2020-07-22 15:37:07,755a28ea69,
+jfu0gq5nunzrx7s422y6ibeyjfu0gq5n,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-22 15:34:13,2020-07-22 15:36:21,2cf4ed4126,
+9x6u78puc83t6ccq4y9x6u760ap7dtfo,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:33:23,2020-07-22 15:35:14,e73e7e1f26,
+cp65dbhxazjuygvg2icp65dbh32i969v,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 15:33:02,2020-07-22 15:35:10,8661a970d3,
+1fei5bdxs72d0igch2nhm1fei5badf54,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:32:55,2020-07-22 15:34:36,a0b130ccfd,
+ftqeoao2oh9ja45n30ftqeoao21pw273,Bottle bank,1,1,,Battery bank,2,1,1,2,2,1,2,1,2,1,12,2020-07-22 15:32:25,2020-07-22 15:34:22,8a51d14d5f,
+ec7j5flgunkvmod27z503cec7j5x80ca,Bottle bank,1,,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 15:31:50,2020-07-22 15:34:15,054960f17c,
+0tyhczojnis3urbv0tyhcz4yahvt0j6r,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:32:28,2020-07-22 15:34:12,58baa5b0e9,
+0nl9gp27gu0s190nl9gw9tuvfysi7szn,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 15:32:38,2020-07-22 15:34:09,eacf6d821b,
+0n7y4zhi68s1je0n7yva4p2lr4ssnx5m,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 15:30:39,2020-07-22 15:33:30,a28e598ba0,
+csebgqeizp6qa0vigcsey9yxq2a7pbpj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:31:14,2020-07-22 15:33:13,0b3312b7cd,
+j3734kt5ocmkiq48wf8p5hj3734kt65u,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:30:34,2020-07-22 15:32:48,88fdb12862,
+mu7ne9shx8led24hqmu5ibp1egtj9vdc,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:28:52,2020-07-22 15:32:03,e4babba381,
+c4qockpy733ahtc3zkc4qoc3vzhu0q0x,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:29:07,2020-07-22 15:31:37,c77c9279cc,
+vxy17tv8sk9xnqcvxy1duzxx4clkgp63,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:28:32,2020-07-22 15:30:44,3b0fcd2319,
+779pecwwwv10zzlc8779pe0po5mi5hyh,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:28:41,2020-07-22 15:30:18,abf467fb46,
+c5nrtajh2in9nijz8c5nrtah8mu160gs,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,2,1,13,2020-07-22 15:27:06,2020-07-22 15:29:40,84b4349aaf,
+a1khgsq3i28mnb7oldba1khdlmmrh27f,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,1,1,1,12,2020-07-22 15:26:45,2020-07-22 15:28:39,3541b77e23,
+sx6lc36wgol7ausx6hfp8bu9jue2aik0,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:26:23,2020-07-22 15:28:18,8d244c44de,
+b6m4n1z2abj1nmatb6m4nh9n8xvdnvd8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:25:38,2020-07-22 15:27:44,4073da4bd7,
+a52ri4u2ndazuicrza52r7nxh1ayy67l,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:25:11,2020-07-22 15:26:52,892613a255,
+ykracjxsaqxg8do3p9pykracd5o3zjso,Bottle bank,1,2,2,Battery bank,2,2,1,1,2,1,2,1,2,1,12,2020-07-22 15:23:31,2020-07-22 15:25:26,f0497d2def,
+ywrl74o3rp34d4ijiiuywrl78h8h5aj5,Bottle bank,2,1,1,Battery bank,1,1,1,1,1,1,1,1,1,1,10,2020-07-22 15:20:26,2020-07-22 15:25:15,d74ff2e7d3,
+mxgeyhkhxnl19y641mxgeygjh52rr66s,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:19:58,2020-07-22 15:24:29,8b446e31f7,
+ef76tt9ay5jec4z7ef76ttyn13fhs269,Bottle bank,1,1,2,Battery bank,1,1,1,1,1,1,1,1,1,1,12,2020-07-22 15:21:06,2020-07-22 15:24:03,9f88ff330c,
+pxmtdl3jz33g9qerpxmtdeujhhrfngqc,Bottle bank,1,1,1,Battery bank,1,2,1,2,2,1,2,1,1,1,11,2020-07-22 15:20:05,2020-07-22 15:23:23,41aebf17b9,
+6dxvvpyhp696nlvd7fnq816dxvvpjvq6,Bottle bank,1,1,1,Battery bank,1,1,2,1,2,1,1,1,1,1,11,2020-07-22 15:21:48,2020-07-22 15:23:14,c78da6e78f,
+qxfre229o8ua3c9mqxfz3nw3sic9he7k,Bottle bank,1,1,2,Battery bank,2,1,2,2,2,1,2,2,2,2,10,2020-07-22 15:20:06,2020-07-22 15:23:02,0571d24494,
+3mtt69usyltzod3mtt1jcvjexqioq9fk,Bottle bank,1,2,1,Battery bank,1,1,1,1,2,1,2,1,2,1,13,2020-07-22 15:20:53,2020-07-22 15:22:55,f247f37741,
+6igxbotow76n6zrr26igzmn4zf84pzzm,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:17:56,2020-07-22 15:19:35,2ed834cd6b,
+ym8httomjh86uf4inmvemym8ht49ws1e,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,2,2,1,12,2020-07-22 15:17:31,2020-07-22 15:19:00,a6ea402d21,
+t5o3fsix9wn9ygvw0fq7it5o3fsixs2e,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 15:15:28,2020-07-22 15:18:13,9f53e18364,
+jsnbpob9ji82ijsnbplvrtjimh9lsvbd,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:15:32,2020-07-22 15:17:05,b07bc2642b,
+7muds2eta2dazekgq17mudsvar7vkvf2,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:15:26,2020-07-22 15:16:53,38411ad4b0,
+smr58l4u4ud1aqyjne6c494smr58l4u7,Bottle bank,1,1,2,Battery bank,2,1,1,2,2,1,1,1,2,1,12,2020-07-22 15:14:32,2020-07-22 15:16:43,0858b08bdd,
+rod2ixbei6t8yfqxfnrod4v05g6597um,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:13:52,2020-07-22 15:16:37,ea5b9cc73d,
+vixbsaqat0vroqmvixb5nzpnhmaae01g,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 15:13:29,2020-07-22 15:15:29,4b5fe3293f,
+6rt2kpyxo708e9ivxp6rt2k3cvfpmoni,Bottle bank,1,2,1,Battery bank,2,2,1,1,2,1,2,1,1,1,10,2020-07-22 15:12:32,2020-07-22 15:14:21,138e67a3df,
+du88yhnsfurgcdu8foqtq4p151fsn5bd,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 15:11:30,2020-07-22 15:14:04,3d2e62e202,
+s9lwnu45vswkdtoeys9lwnbt2l1rs11a,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 15:11:30,2020-07-22 15:13:26,2ed834cd6b,
+8oiertow11gju60nidtncrc8oiereckm,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:10:37,2020-07-22 15:13:20,4af40fe39e,
+klgcjjkn22ffudoklgcjus0pvkr3oprv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:12:03,2020-07-22 15:13:18,2f8afb57cc,
+tkbyq1otdhj7ogy98cywtkby8b6nmymw,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 15:11:13,2020-07-22 15:12:51,af416c32df,
+nmq0ot5ljly492gsodnmq0o260b4822m,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,1,1,2,1,12,2020-07-22 15:10:24,2020-07-22 15:12:29,e716780860,
+qe0wybvfr26ezgr31qe0wy4u3k4ib25c,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 15:08:58,2020-07-22 15:11:42,d2de4ece39,
+fql2arhleje9kn8h8fql263fxbjf694h,Bottle bank,1,1,2,Battery bank,2,1,1,2,2,1,2,2,2,1,12,2020-07-22 15:08:01,2020-07-22 15:10:40,4ff8dd00c8,
+4lnn2g12srd8g90gd4lnncg8iewntaz6,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 15:09:16,2020-07-22 15:10:38,ae07469fa3,
+narlutiirjvy52epmnarlutipgr4v4d8,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 15:08:40,2020-07-22 15:10:31,c76143a550,
+w1ekv05unjlbghtfkhw1ek35bkaoayc7,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,1,1,13,2020-07-22 15:07:11,2020-07-22 15:08:35,0122ddadcd,
+s3fjs9tmif4d8kwwns3fjs9eh6s0uyv3,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 15:05:42,2020-07-22 15:07:44,a5b7ef83fc,
+eh34sadfdlvsvplcehy9haijpz6w1yig,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 15:05:41,2020-07-22 15:07:13,8a4a177659,
+too8tzvz892hl8xtltactoo8tesocsrw,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 15:05:17,2020-07-22 15:07:11,410f349418,
+z5bmji3v6fczy5foz5bmjfcnmkra9wsy,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:04:51,2020-07-22 15:07:06,d092904ca5,
+plkvoio2n73vdv7izh1pwplkvoiogzkf,Bottle bank,1,1,1,Battery bank,2,1,1,1,2,1,2,1,2,1,13,2020-07-22 15:04:22,2020-07-22 15:06:37,8194ce9794,
+brk9fnc7xceext9nylwi3mgbrk9fqce0,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 15:04:09,2020-07-22 15:05:50,800c9b3437,
+8f8wnnjjk1loat0d8f8w81nfmly5xdew,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 15:02:34,2020-07-22 15:04:33,049d44b8d4,
+9tcujtuwjoz1nj1d93itpv9tcujte9rr,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:01:10,2020-07-22 15:03:44,03b2d13527,
+6pu61n381rwmwco6pul65qpit5h6kvtl,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,2,2,1,12,2020-07-22 15:01:19,2020-07-22 15:03:34,645126d79e,
+23weutk2o7dfdwlhsuq23weposa8351r,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:01:52,2020-07-22 15:03:04,070155e6b3,
+1lhxcetlwb5ccmvn1lhxchw5iwqdh0gy,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 15:01:37,2020-07-22 15:02:37,7927d2ab1c,
+b2744z6f9sppm4j9mb2744n2qlzj63bt,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,1,1,13,2020-07-22 14:59:52,2020-07-22 15:02:31,3e550d4623,
+lat1j03sqrrtca2yoslat1jitrlazttm,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,2,1,1,2,1,12,2020-07-22 15:00:46,2020-07-22 15:02:27,371297c42d,
+qbse827me6jmwkvpqbse8ch3thvo73v7,Bottle bank,1,1,2,1,1,1,1,2,2,2,1,1,2,1,11,2020-07-22 14:59:31,2020-07-22 15:01:13,cf6a9fad2d,
+xojb821qxrvk3yk2qgvciu5xxojb821f,1,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 14:58:17,2020-07-22 15:00:34,5575a3144e,
+hsatjwxrq7ui2lq4q0aghsaaqzb9bbja,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:56:20,2020-07-22 14:58:25,3fa8bee576,
+3y8yxumplcy7ov0t4m3loc3y8yxup2gp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:56:01,2020-07-22 14:58:17,48d37b3775,
+m4e46e2fwrwighcxm4e46ep61thdat7c,Bottle bank,1,2,2,Battery bank,1,1,2,1,2,1,2,1,2,1,13,2020-07-22 14:56:10,2020-07-22 14:58:16,ae07469fa3,
+3ljqueph080dtm500tx3ljqueph01s58,Bottle bank,1,1,1,,,,,,,,,,,,3,2020-07-22 14:56:06,2020-07-22 14:57:58,76915e8ac5,
+9xnhpmjjbptom8g9xnhpmsnns4e7wxx4,Bottle bank,1,1,1,Battery bank,1,2,1,1,2,1,1,1,2,1,12,2020-07-22 14:55:37,2020-07-22 14:57:17,eee2d59592,
+qt695ot1nxkkn45eya62qt695oozjcia,Bottle bank,1,1,1,Battery bank,1,2,1,1,2,1,2,2,2,1,12,2020-07-22 14:53:44,2020-07-22 14:57:03,1b721b5459,
+yxem3x48xvyqj0stryxem0wb8lhlxeaa,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:54:28,2020-07-22 14:56:38,a734ff4bb2,
+lww2jqljqvj71ru6bwsklww2jgk9jnzv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:54:05,2020-07-22 14:55:35,4e4cd29c74,
+fe4uv5m4t7feet6fx70n3zeckt35egpa,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:53:15,2020-07-22 14:55:11,5b534d8d75,
+8lph00yt1abvpk5zi8lphxkw12j13ff2,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:51:18,2020-07-22 14:53:25,b2757063f4,
+qit3bd6p980lbp5k5wkebbg3xqit3bdt,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,2,2,1,13,2020-07-22 14:50:34,2020-07-22 14:53:11,9e095e8081,
+3tsnlex060agsiv5h0pao3tsnlewtm0m,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,2,1,1,11,2020-07-22 14:49:53,2020-07-22 14:52:06,8f5ddcabc6,
+c01b2v2y0k32ezibac01b2n2o37vqr6l,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 14:49:58,2020-07-22 14:51:28,8e00a3ea12,
+vusuwjdnt10htwee57wvusuwxjnmlgq2,,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,12,2020-07-22 14:48:09,2020-07-22 14:50:56,49827cd4e7,
+6p1fn9efm57tv6p1f3igykq77kh13689,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-22 14:48:10,2020-07-22 14:50:28,b4634e6f55,
+9r7x22po3v7sijuac9r7xlrc9miwe10p,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:48:13,2020-07-22 14:49:55,e1aac05aad,
+w7kikzt4t0nu6wyyw7ki2iynfp0l0b9x,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:47:52,2020-07-22 14:49:52,fe0f5b872c,
+vc8bquy9ltse8oozfpvc8bquyriosmpb,Bottle bank,1,1,2,Battery bank,1,1,1,1,,1,2,1,2,1,14,2020-07-22 14:47:28,2020-07-22 14:49:42,376dfcc43e,
+uf41p52sw72juf4175qh9k6nrqu5i5pl,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:47:24,2020-07-22 14:49:32,e8ca7a4a74,
+cw9ld4tet23nvscw9ldqdag69wsbeenb,Bottle bank,1,1,2,Battery bank,2,2,2,1,2,1,2,1,1,1,11,2020-07-22 14:41:43,2020-07-22 14:48:49,cec669e315,
+m1n6j3a0ci8x7fcener5nctm1n6j3fid,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:46:42,2020-07-22 14:48:05,0aae89c7e1,
+hjjw5q5sdtkhcheiywguhjjw57ihk0ne,2,1,2,1,Battery bank,1,1,1,2,2,1,2,2,1,1,9,2020-07-22 14:44:43,2020-07-22 14:47:35,321b82d57d,
+xr5edf2cpul5ntjueaalxr5edf23nr2l,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,2,1,2,1,12,2020-07-22 14:43:48,2020-07-22 14:46:03,a1af0572de,
+4ya0cv2h46rbau0fi9ady4ya0cvghcmg,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:43:48,2020-07-22 14:45:57,4fe175ebba,
+zwz1rqg32nt4beadp3e4zwz1wu133pmb,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 14:43:33,2020-07-22 14:45:43,4bc892f4bd,
+j9n3mvuzwpleeexzm0luj9n3mlt0xlni,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:43:35,2020-07-22 14:45:33,f59cf3b5f8,
+7fqsy3spdyldeh7fqsynr5366mqcz782,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:43:12,2020-07-22 14:45:30,310e9cdd53,
+jyal4s47xcvuwpybg6hpjyal4nxw24kd,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:42:06,2020-07-22 14:43:53,5b86cb5453,
+20b2j4y3ertyxcj20b2jzfr7zmrw8g5h,Bottle bank,1,1,1,Battery bank,1,1,1,1,1,1,1,1,1,1,11,2020-07-22 14:41:07,2020-07-22 14:43:31,b7cdd963d7,
+s508bhswbjrmxzx85xs508by8sv359j2,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:41:43,2020-07-22 14:43:22,d639429b7d,
+xy390rswkr8mcb6ns0hq9wxy390rw64x,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,1,1,2,1,13,2020-07-22 14:41:16,2020-07-22 14:43:00,0321c04d0f,
+r83nggmpk6mehyhjr83nb1v0k9ve4mf1,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:40:53,2020-07-22 14:42:43,fed22985f8,
+4z0rb6fwp6f5phoww4z0r1233ddggyja,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:36:57,2020-07-22 14:42:23,a2569b9346,
+v5yk1jn43zpue7xyn6v5yk1a1crsrg28,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:40:52,2020-07-22 14:42:16,67e22376c6,
+oltffd6bacz4toltoq3nzo644ms85wn8,Bottle bank,1,2,2,Battery bank,2,2,1,1,2,1,2,1,2,1,12,2020-07-22 14:39:53,2020-07-22 14:42:04,463bb5aa8d,
+k1tyno7n0opshpuk1tpgg7ykpgus9wlt,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 14:40:09,2020-07-22 14:41:44,64e2c40220,
+rywesiy0du32iywrywes4s7s691bnnvd,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:39:13,2020-07-22 14:40:44,12db015c0d,
+orf7bt4uk9m0rb66wgfoq3y3i6xbf9cb,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,2,2,1,12,2020-07-22 14:37:53,2020-07-22 14:40:36,ab3237bf61,
+cstfbcsf0t5dxacvccstfbc5y0vty85n,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,1,14,2020-07-22 14:39:00,2020-07-22 14:40:25,07151aa7d1,
+txnj0lhw3bd55rjjr61vntxnj0lhkfkk,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,1,1,13,2020-07-22 14:26:40,2020-07-22 14:39:07,9d96fae643,
+w5uqmbca41ucz8jeotyqw5uqmbcag5hz,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:37:03,2020-07-22 14:38:58,724ce5e43e,
+exrnvstz0psey8sqp9y42exrnvst0d7r,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:36:53,2020-07-22 14:38:38,b77fa464b7,
+axd71i2p1xab36gyv72axd71p9l2us86,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:37:02,2020-07-22 14:38:37,ced73735dc,
+74eeby5dhfbi67u34k74eebyisrnxg99,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 14:35:59,2020-07-22 14:38:16,016f39f981,
+lrcocwh1jv9fo49lrcoctky1fjbayw7l,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:34:50,2020-07-22 14:37:10,2bcd0259af,
+59r7erenbmxi7nlmc5lt659r7ere8fmi,Bottle bank,1,2,2,Battery bank,1,2,1,1,2,1,2,1,2,1,13,2020-07-22 14:35:22,2020-07-22 14:37:05,d4f84233db,
+thufqy91i0ixktd6eo3mnthufqy919ap,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 14:34:19,2020-07-22 14:36:48,ceaf69ff30,
+cn9v0nyc2r2tv56lzigcn9v0qmae8yc5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:34:33,2020-07-22 14:36:40,7572aa67df,
+f8135hc44tffkm9tmyf8135haht73852,Bottle bank,1,1,2,Battery bank,1,2,2,1,2,1,2,1,2,1,13,2020-07-22 14:33:54,2020-07-22 14:36:23,4f4be067a1,
+dyqhy74iuy5vsoqftdyqhy7patj73d5d,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:33:37,2020-07-22 14:35:53,64a651ba3e,
+8yjhavpi4yubtxj9n2q8yjha7yz7we8z,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:34:17,2020-07-22 14:35:52,c985b713a7,
+ivebezbpkk9vb956ivebd2m6qitc83mh,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:33:04,2020-07-22 14:35:42,1b3122c47b,
+1babwagky72ipeq9cg71bafz26t8jsfy,Bottle bank,1,1,2,Battery bank,2,2,1,2,2,1,2,2,2,1,11,2020-07-22 14:33:26,2020-07-22 14:35:39,48c4ef2059,
+295819hn9mzj78c67a295819hzyfsl9j,2,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,13,2020-07-22 14:30:49,2020-07-22 14:35:30,cfcf369493,
+7t3ijenyabqqalw3n7t3i2x0yfj9nrre,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 14:33:28,2020-07-22 14:35:25,d7364b8b2d,
+sp4glpqymxanab3i2fiqimsp4glpq32b,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 14:33:52,2020-07-22 14:35:12,cf27f7a03f,
+ihr0cvnd6mj1kfca0n1ihr0cv7m82kvm,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 14:33:10,2020-07-22 14:35:08,ae77987d79,
+jqm38ko1w1jqgchtjqm38kgjc9s09gwl,Bottle bank,,,,,,1,,1,2,,,,,,4,2020-07-22 14:32:07,2020-07-22 14:34:36,46101040c6,
+9xoaivf8a3g33slg4rg7y9xoaib9gh9v,1,1,2,2,Battery bank,1,2,1,2,2,1,2,2,2,1,10,2020-07-22 14:33:00,2020-07-22 14:34:30,1bfa5b55c4,
+5jxsw3odpj789rg4p6heq5jxsww8i3yg,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:31:48,2020-07-22 14:33:08,05b73ca7c8,
+lij15m7x1o0wwl0r61lij1tm5xx81sr5,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,2,1,1,10,2020-07-22 14:30:08,2020-07-22 14:32:55,983ced043d,
+b505yp5l9t2q8f2sguqiv4b505yp55t8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 14:31:00,2020-07-22 14:32:48,72ac122118,
+sa3qnb7fag30q1lsa3qrxur4wb5ssh2z,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,1,13,2020-07-22 14:30:38,2020-07-22 14:32:24,9795a89cbc,
+hshiiemcrrg3vrbtui8hshiivdz6orvz,Bottle bank,1,1,2,Battery bank,2,2,1,2,2,1,2,2,2,1,11,2020-07-22 14:29:32,2020-07-22 14:32:23,5a2dc15620,
+abu2h51r25qqgy01mabu2z59qmx96hde,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:30:16,2020-07-22 14:32:21,8c5040312a,
+0fb1s1oimzcxbki0fb1s6x0g5cfgx4cq,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:30:35,2020-07-22 14:32:14,d5ec66393c,
+xvyv7uspta3azwjxvyv7ku2ovllis7r8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:30:18,2020-07-22 14:32:07,5c631a231a,
+uxwz58sbc47fwh7n4j61uxwz58ppe6we,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 14:30:01,2020-07-22 14:32:00,8d39f18760,
+31310okdupguv468t31310ok572smtsw,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,2,2,1,12,2020-07-22 14:30:22,2020-07-22 14:31:48,553a84840a,
+3qv5kaata78u3qu0twk11e3qv5kglxcj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:30:09,2020-07-22 14:31:44,c08b8dc837,
+7bdu5zt7aqign0qw1oq7bdu5zty5ph5e,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:28:06,2020-07-22 14:30:05,238fbf8cf8,
+51uihzzhtwp3f3ug0551uihz6ed5aui8,1,1,2,1,Battery bank,2,1,2,1,2,1,2,2,2,1,9,2020-07-22 14:27:38,2020-07-22 14:29:56,9795a89cbc,
+siumm9c8xynbkz34ihqys17siumm9p2j,Bottle bank,1,2,2,Battery bank,1,2,2,1,2,1,1,2,2,1,10,2020-07-22 14:28:00,2020-07-22 14:29:35,8580750318,
+lcd1tdw4o61pyj5cslcd1tga7dcxmay3,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:26:39,2020-07-22 14:28:42,233acdb696,
+yqjcajd7xjfhud3udyqjca6bdor0wn7k,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:25:02,2020-07-22 14:28:14,c56382c224,
+229i6z8ecsllxj22cqnkeuitvc7jkjjx,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:26:53,2020-07-22 14:28:13,4867a0daca,
+blbkxxiql0xsqp9xdr7blbkxxfcq90kz,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 14:26:19,2020-07-22 14:27:57,b0aabd4d07,
+w09ar1d8e8wwjqhmm7w09aopr777iexy,Bottle bank,1,2,1,Battery bank,2,1,1,2,2,1,2,2,1,1,9,2020-07-22 14:26:02,2020-07-22 14:27:53,267897b2ac,
+jnbhnggcxx8jdxfyw21vjnbhn88x4bx6,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:25:37,2020-07-22 14:27:53,08a44e8c77,
+lagj2y8n70cya1pklagj2ya3kfc4yogh,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,2,1,13,2020-07-22 14:24:43,2020-07-22 14:27:18,28736afb72,
+kvwmp34rx8vzef7xof3lkvwmp3mjezh7,Bottle bank,1,1,2,Battery bank,1,1,2,1,2,1,1,1,2,1,13,2020-07-22 14:24:13,2020-07-22 14:26:27,d7218593ce,
+ns4lqdu753ap39l4tgrns4lqbp98um9y,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,1,1,12,2020-07-22 14:24:37,2020-07-22 14:26:26,4867a0daca,
+wpoi0fge0gn9gwposx8hfnsjtbo6cwf5,Bottle bank,,1,1,Battery bank,1,1,1,2,2,1,2,1,1,1,11,2020-07-22 14:23:17,2020-07-22 14:25:33,ba1e669644,
+n1ovpz8a4forkwgvnn1ovpz1ffswpfow,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:23:29,2020-07-22 14:25:02,42982cc567,
+9wknhz82w7f0pzbxjnsz6s9wknhz82le,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:23:15,2020-07-22 14:24:55,8bdb6ddde5,
+aodiyve8az08ljhi27rwaodiyvdo9vcx,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 14:21:15,2020-07-22 14:24:04,a333cf83b2,
+2idhs5h9jwwswb5n304o1u3v2idhs5h3,2,2,1,1,Battery bank,1,1,1,2,2,1,1,1,2,1,10,2020-07-22 14:20:17,2020-07-22 14:23:56,8f5c2db905,
+64mhjurg14bg4owwlt51r64mhjgexmd4,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 14:21:29,2020-07-22 14:23:31,1b9e5603ee,
+h03flxqn57wtidqsqt6h03fl0hdlzuor,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:21:03,2020-07-22 14:23:27,18eddf3651,
+61n4t6rg7jhms0c61n4ts5q5netcgt1c,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:19:29,2020-07-22 14:23:25,2948b7eda8,
+ro3xdg2n1fygdforo39ibx3br3hs6fbg,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,2,,1,12,2020-07-22 14:20:49,2020-07-22 14:23:06,1a807445a7,
+2gzmriwwlxxmqonftfvv82gzmriwwu93,Bottle bank,1,1,2,Battery bank,1,1,2,1,2,1,1,1,2,1,13,2020-07-22 14:21:09,2020-07-22 14:22:43,eef02e7ada,
+yzr079syglg4p7byzr07hz7n71oqyuj7,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,1,1,1,1,11,2020-07-22 14:20:23,2020-07-22 14:22:32,a73dc9be80,
+xqom9gkobshvefuyxqom9kkwf5ejkev9,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:19:55,2020-07-22 14:21:38,cd72ee7ab5,
+ua1w1vc9unkw2dtua1w1pompa3fwxqle,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:19:48,2020-07-22 14:21:23,56b367de90,
+xnlmy0zthm1ay6ue409vxnlmy1z19er2,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,1,2,1,12,2020-07-22 14:19:27,2020-07-22 14:21:04,7374f9af71,
+z35d0kg80t308z35j72d12ea7cckg2j7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:19:44,2020-07-22 14:20:51,1082d97ea0,
+tkmdodi2dqbp0jsxsh4tkmdo6ml20qmf,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-22 14:18:53,2020-07-22 14:20:48,40a38c7e64,
+sr7celiz0ajp9b2vdxcj9sr7cel6gczm,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:17:16,2020-07-22 14:20:27,a594252c6b,
+ljl33dlbkcydkpayk5ljl37m8tknfc8x,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:18:18,2020-07-22 14:20:27,02c64767c7,
+euy0otkviyi41wo714kvhueuy0otsv9x,Bottle bank,1,1,2,Battery bank,2,2,1,2,2,1,2,1,2,1,12,2020-07-22 14:18:13,2020-07-22 14:20:22,25b1b8f91e,
+oy63tsw4j0q7c618fvaoyiy4vk3a218n,Bottle bank,1,1,1,Battery bank,2,1,1,1,2,1,2,2,2,1,12,2020-07-22 14:18:18,2020-07-22 14:20:15,c94b0d663f,
+rw5a5h8hlkrj0dg3r36ozdtqrw5a5h8f,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:19:08,2020-07-22 14:20:13,d00d96aa65,
+5i3cu6li7at8df3m5i3cn0avenmedxn5,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 14:18:24,2020-07-22 14:20:12,ece04cc773,
+09x85ojg632agrhvpvq7e09x85ojg1vo,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:18:21,2020-07-22 14:19:55,64cb3990eb,
+49twswxfx4uz32etun49twswx8dt2byk,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:18:23,2020-07-22 14:19:48,25a62db9d1,
+18bzfsdlpkrmm8f0c6t4r18bzdjfnu7g,Bottle bank,1,1,1,Battery bank,2,1,1,2,2,1,1,1,2,1,11,2020-07-22 14:17:24,2020-07-22 14:19:48,840ba11297,
+gkovmw4g07s0b82ajvcgkozptjwjo7k9,Bottle bank,1,1,1,Battery bank,1,1,1,2,2,1,1,1,1,1,11,2020-07-22 14:18:11,2020-07-22 14:19:43,9f40de6712,
+awo2rar6aeid88j9xlawo2rarxwsj2ue,2,1,1,1,Battery bank,1,1,1,1,2,1,1,1,1,1,11,2020-07-22 14:18:00,2020-07-22 14:19:32,1082d97ea0,
+z1509g27tpmisvk2mzz15obdl5ev7k80,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:17:49,2020-07-22 14:19:23,151657fe0f,
+01jvgzo6p8njcg501jvwf3wqbbl68ylr,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,1,1,12,2020-07-22 14:17:29,2020-07-22 14:19:09,6758a9594e,
+s1no4sajovrk4ggaq4qs1no4m0g6reu1,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:18:04,2020-07-22 14:19:06,0ea17d7010,
+fsm5mctkuomp3ugfsm5bphtk81edc62d,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 14:17:28,2020-07-22 14:19:02,ea82919e2d,
+1qtw2dfhtxlruv9hff1qtwl1yqkzzfa2,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 14:16:16,2020-07-22 14:19:02,78f99dbd55,
+4ddmx7kkzduk544dd5k7inhfjo1o3x9t,Bottle bank,1,2,2,Battery bank,2,2,1,1,2,1,1,1,2,1,11,2020-07-22 14:16:31,2020-07-22 14:18:53,aa3cd87d54,
+6dyc5ngsgv7ady6dy56yr5v5d1cij1nr,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:16:27,2020-07-22 14:18:48,18cfcda5ec,
+kcvswzmu4u2o67zakcvswzhk67swjwfh,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:17:15,2020-07-22 14:18:45,d00d96aa65,
+6511lth5weyadg7b06515oipne34s9o4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:17:07,2020-07-22 14:18:45,76259a81e2,
+46bt1xht79ik7ddgu946bm0qo0t5t5qz,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:16:58,2020-07-22 14:18:35,307eed3a44,
+j4i9rous8vnfeou2j4i94obxqousht75,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,2,2,1,12,2020-07-22 14:16:49,2020-07-22 14:18:33,84a19076d4,
+vyw1us6nnd78ol2zvqs4nvyw19ebxbq1,Bottle bank,1,2,2,Battery bank,1,2,1,1,2,1,1,2,2,1,11,2020-07-22 14:16:23,2020-07-22 14:18:23,15bc16923d,
+17o75ty2rabo0zk0yogrdu17o75ty2zv,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:16:24,2020-07-22 14:18:17,8a9c0b64bb,
+1dbxlyxhhimenft8wj31dbxkr87m92ki,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 14:16:24,2020-07-22 14:18:00,25a62db9d1,
+ci0vyhf92sv6qqjefr59w0qci0vyh8fs,Bottle bank,1,1,1,Battery bank,1,2,1,1,2,1,2,1,2,1,13,2020-07-22 14:15:40,2020-07-22 14:17:38,ca74f871fc,
+hflt5vk1v0ryhpsqyys6hflt5vnlf79f,Bottle bank,1,1,2,Battery bank,1,1,2,2,2,1,1,2,2,1,11,2020-07-22 14:14:53,2020-07-22 14:17:30,151657fe0f,
+mr6v3i3fo3b90dt7wmr6v3i0fkdfgv32,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,2,1,1,2,1,13,2020-07-22 14:15:47,2020-07-22 14:17:18,0eb2f4a32d,
+3zj29oedhw7ckobq3zjhfy0p498fcoy4,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 14:15:01,2020-07-22 14:17:12,c44373035b,
+ulkhkc8jxe5cqtnidulkhhc2kckysaa8,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,1,2,1,13,2020-07-22 14:15:24,2020-07-22 14:17:11,c5158dd11e,
+muxlhobw7fnnpamu4o2dlx1sbcemngnd,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,1,1,1,12,2020-07-22 14:14:56,2020-07-22 14:17:06,23d21b78ad,
+jb0orh261q8fdpqc5jb0orh5c5bain9c,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:15:19,2020-07-22 14:17:03,deab5db58d,
+bvaf3qtobg54yfkgbvaf33jjbmfif6y5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:14:57,2020-07-22 14:16:54,76e57ce447,
+81docqbhx15bi1y50c581docb2jdr5ah,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:15:18,2020-07-22 14:16:49,c26214de9c,
+p0ki5k9of96amtp0kiahtjjjvuxx2vfq,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:14:50,2020-07-22 14:16:31,b30a08062d,
+r2sstm8t6kep62tacvr2sstmvp6e2zt7,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,1,2,1,1,10,2020-07-22 14:13:55,2020-07-22 14:16:09,a872242bf0,
+ods1mtvbne8ai4gfrjdods1mt8y7m9w1,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:13:21,2020-07-22 14:16:04,d899d60f22,
+xrq5osh0n2fjvtjxrq5o8rns319lo634,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:14:16,2020-07-22 14:15:49,c5e93f3efd,
+o7kj0fyy21no67co7kj0fmxyg7e6iie5,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:14:11,2020-07-22 14:15:48,ae07469fa3,
+3dthkr7hzcacfcxi8r2p3dthkr7hbd8a,2,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:10:51,2020-07-22 14:15:47,18eddf3651,
+rl6oeubv6xfetvh9sf9prl6oem3jbyoi,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 14:14:07,2020-07-22 14:15:46,77644aa8f1,
+zuqr08nksifvzv1zzuqr08nyymsbkxkf,Bottle bank,1,1,1,Battery bank,2,1,1,1,2,1,2,1,2,1,13,2020-07-22 14:13:22,2020-07-22 14:15:44,28003a7e0b,
+idlg637zr5ia8yrkidlg6uvawyhz3cqq,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 14:13:43,2020-07-22 14:15:05,6b31d9c522,
+u82bfq4s7x5355xiu82bfqb1u45fp01m,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 14:12:37,2020-07-22 14:15:04,8e9eb358ff,
+fidjl2k5qzuw3siuuzfidjlt2ehi31az,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 14:10:32,2020-07-22 14:15:01,37d6086f14,
+9flokcfpvd9akjlfjfj7779flok6imor,Bottle bank,1,1,2,Battery bank,2,2,1,1,2,1,2,1,2,1,13,2020-07-22 14:12:55,2020-07-22 14:14:59,b0e58361d5,
+mteel3w6ftw7s5l0phmteelm3r973l1k,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:13:24,2020-07-22 14:14:57,4d6210e46f,
+asteep6bm350exlsbsxlasteepbj9sp0,Bottle bank,1,1,2,Battery bank,1,2,1,2,1,1,2,2,2,1,11,2020-07-22 14:12:21,2020-07-22 14:14:56,cb6de9fa18,
+07qrhiz5u8fl78wb5uhf07qrhij269ra,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 14:11:57,2020-07-22 14:14:42,b2039a88ec,
+7yel0ejfxchnhdnw6rp7yelutd9nvgnz,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:12:26,2020-07-22 14:14:39,543d89a796,
+ko7oqybgke5ywwdslb3ko7oqyeszdgpm,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,2,2,1,12,2020-07-22 14:12:01,2020-07-22 14:14:28,7e12dce116,
+88k47dihr4xqwud320lysg88k4vs8g5j,Bottle bank,1,2,1,Battery bank,2,1,1,1,2,1,2,1,2,1,12,2020-07-22 14:11:49,2020-07-22 14:14:26,96ecc670c5,
+gaz454ylxxwtofqv7gaz454yl9s79glw,Bottle bank,1,2,2,Battery bank,1,2,1,2,1,2,1,1,2,1,9,2020-07-22 14:11:43,2020-07-22 14:14:16,25a62db9d1,
+th28qo247464oxq5tgihcrth28qorw4o,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,1,2,11,2020-07-22 14:11:40,2020-07-22 14:14:03,31e423166c,
+jpplgj2o7j9l66zjcjppl0qmdn942vzp,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:12:21,2020-07-22 14:13:59,ae07469fa3,
+ngl359ankgnq60r03b9ngl35w0jcpfu1,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:10:47,2020-07-22 14:13:18,44490f9e25,
+h3gotvwbew3ik6rh3gpvw64s0woadffc,Bottle bank,1,1,2,Battery bank,,2,1,2,2,1,2,2,2,1,11,2020-07-22 14:11:25,2020-07-22 14:13:13,8f5c2db905,
+9h1ksy7gj6nc7tkqnv019h1ks4bc4zgl,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:11:02,2020-07-22 14:12:59,2c71bc1284,
+egh40z86jbqff6x44egh40kk1vhm6qzz,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:10:55,2020-07-22 14:12:58,c9ec798984,
+3v8b96gmc4yzjjlxg3v8b90fp2zbftt5,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:10:47,2020-07-22 14:12:58,33a4bd8474,
+tndhf9hwbezrbuv2yotni58wyw1l5p66,Bottle bank,1,1,2,Battery bank,1,1,2,2,1,1,2,1,2,1,12,2020-07-22 14:11:03,2020-07-22 14:12:51,60d04bbe38,
+kv5f0oqhqmikbmkv5faz3yf6fduba18b,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:11:08,2020-07-22 14:12:42,60afff8395,
+taca07krx25k3catamv7nmjmh7xtsiab,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:10:36,2020-07-22 14:12:30,e88f151d81,
+rnd9duutlbgcy71cyk6rgrnd9duutljp,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 14:10:10,2020-07-22 14:12:29,b0c0a8474c,
+4d54ll6s8hodv7yq6uny4d54lft2bhhj,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,1,1,1,11,2020-07-22 14:10:31,2020-07-22 14:12:11,ddbfd78e24,
+8n2v58bvuvppi0uzh8n2v58e01uht3is,Bottle bank,1,1,2,Battery bank,1,1,2,2,2,1,1,1,2,1,12,2020-07-22 14:09:45,2020-07-22 14:11:59,cd57f19d82,
+uncad0wspoctken3wbcuncadxghntxvl,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:09:45,2020-07-22 14:11:58,ae07469fa3,
+ab2l2zq28jbhuteyab2l2zlv6i1z9ndf,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,2,1,2,1,14,2020-07-22 14:10:40,2020-07-22 14:11:58,ae07469fa3,
+1v1kc5p0ptz8u7cz7w1v1kc5p8qxqqi2,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,2,2,1,2,1,13,2020-07-22 14:10:08,2020-07-22 14:11:58,3920f97dca,
+ziuxsms9u9p83b24ns4qxziuxs53837v,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:09:59,2020-07-22 14:11:55,ba20eb8cea,
+q9ic5shc7r0ws7bgq9ic5hqey7p1khdl,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 14:10:28,2020-07-22 14:11:55,cf8b7d31fc,
+ni044uwmptrg8yupkld2ni044uwfmag0,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 14:09:56,2020-07-22 14:11:50,c31ace3c98,
+2gadifko8jr8bxzlm52gadi6c9b70g2x,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:09:33,2020-07-22 14:11:44,ed0f3f3176,
+qgwx7oikg4dk9uevo3cqgwx7oii972mv,Bottle bank,1,1,2,Battery bank,2,1,1,2,2,1,1,1,2,1,12,2020-07-22 14:09:49,2020-07-22 14:11:37,20e1569951,
+mctmg58lcld7mctmrjaw8sz6f6s853hr,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 14:09:11,2020-07-22 14:11:34,d7962ea0d0,
+nmzpes6kihgb0qnmzpesxw88nhx7xnto,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,2,2,1,13,2020-07-22 14:09:44,2020-07-22 14:11:23,ad217e820d,
+mpytab6m8vil7ss3mpytay0v3x92lte3,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:09:47,2020-07-22 14:11:13,b4a2cec056,
+4rykts7kqgqie4hwh4ryktdl1rxauvqf,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:09:20,2020-07-22 14:10:57,5eb1422228,
+ss7ny9o3gys4cwekelr16ess7ny9o33z,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 14:09:10,2020-07-22 14:10:44,f8168064a7,
+6tblh8lq0nw11i1qghjq6tblh8l8ug7p,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-22 14:09:16,2020-07-22 14:10:28,35e31caa62,
+w289c3gvsdgnzxw2e8vrm6qtz3faybpy,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 14:09:03,2020-07-22 14:10:26,2e3b3190d5,
+3lnrkrz9mumw1m6cfby43lnrkrz945ci,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-22 13:52:54,2020-07-22 13:54:53,f2bac1727b,
+ymgqbix49ghetoccaymgqbiwcbughcyv,Bottle bank,1,2,,,2,1,,1,,1,1,1,2,1,8,2020-07-22 13:11:32,2020-07-22 13:13:57,42a5ea2dfa,
+bz87wwd5cw686qbz87wwdyk3e3uw7qh8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 13:11:35,2020-07-22 13:11:56,3e39093ec7,
+84uf68xtf1igqep2svs84uf6wwmzyflw,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,1,1,13,2020-07-22 12:42:02,2020-07-22 12:45:00,469cf5a034,
+pi1v9y5phw1rx21pi1vppthinshjwt6h,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-22 12:00:25,2020-07-22 12:02:33,c0bce61f1a,
+g1io2cbpz17nq4yb7c2hg1ioos6m4bzg,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,2,13,2020-07-22 11:52:30,2020-07-22 11:54:15,8451364b8b,
+qy6l8hjgqm2azmbqy6l808c3b24dvnza,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 11:42:28,2020-07-22 11:44:23,40e51742a2,
+4ihvbaaw6qc76goftikk4ihvba9q8o5i,Bottle bank,1,1,1,Battery bank,1,2,1,1,2,1,1,1,2,1,12,2020-07-22 11:31:15,2020-07-22 11:33:18,59eb4b2c75,
+8psy5tq4v6058v5t1d28psy5tqubsoor,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,1,1,2,1,13,2020-07-22 11:09:32,2020-07-22 11:17:07,dcdfb4f9be,
+jnfv46akl3jb45hiylqjnfv4hz3r5heo,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 10:51:45,2020-07-22 10:53:40,4655ec3854,
+c1srg9kf29ynic1s8eapbp51rnxmqh67,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-22 10:08:01,2020-07-22 10:09:52,2ea2a02ee2,
+uoffo6c9jd4nhg2gmqruoffo67u9djwi,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,1,1,12,2020-07-22 09:21:23,2020-07-22 09:22:54,f08884cfd0,
+pwcn74ln9qtv6mpwcnjq9ne1swry2ht4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 08:45:10,2020-07-22 08:47:25,f13f8895ea,
+j0nossalopnt0biwt37paj0nosrc7nom,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 07:38:21,2020-07-22 07:40:34,214c5e0fd7,
+gswt11qx5hmx9c8xtzlrgswt11qhmcyw,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 07:00:46,2020-07-22 07:02:12,2b8cac7630,
+exx57bky8wzxuqlgexx57bkpdx5rnntj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 06:45:15,2020-07-22 06:47:09,539571f4c4,
+0gdn8yqhrq2ktta5j0gdwtcp5z1q6ol6,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-22 06:44:20,2020-07-22 06:46:04,a413d1eb6b,
+3suo45pt83dtpmtq3suo22yr6svbcbo0,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-22 06:32:36,2020-07-22 06:33:56,a413d1eb6b,
+whz1h2mo73fopu2ohwhz1mt160ct8lu7,Bottle bank,1,1,2,Battery bank,1,1,2,2,1,1,2,1,2,1,12,2020-07-21 23:58:02,2020-07-21 23:59:39,d19ccd8cd3,
+1skmpkf4tpybixbt2pq1skmpu53mfq5r,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,2,1,2,1,12,2020-07-21 22:23:23,2020-07-21 22:25:36,6f741e2f7a,
+mllgja7dc8dctuqm92t3zgmllgjkpi5o,2,1,1,1,Battery bank,1,1,1,1,2,1,1,1,2,1,12,2020-07-21 22:04:17,2020-07-21 22:06:56,d2be6ef861,
+oybfr1972ac3s1dsqoybf6zxowe39wwn,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 22:04:40,2020-07-21 22:06:48,c815a3c1ef,
+k42fnmd2p6cp63k42fnmtj0hwqo7rdw3,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,2,1,2,1,12,2020-07-21 21:55:06,2020-07-21 21:57:06,91dcaf5d87,
+w16ykvuf8hrs0wkow16ykr5jdjma5acn,Bottle bank,1,2,1,Battery bank,2,1,1,1,2,1,2,1,2,1,12,2020-07-21 21:48:00,2020-07-21 21:50:28,c9e8c66f8d,
+6jjpobqh669na7hn7mlq6jjpoph6vi2y,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-21 21:44:58,2020-07-21 21:47:18,2d05b266b1,
+bmdvckppl3j4dq2rzbmdvq8uqsv5ix6h,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 21:12:03,2020-07-21 21:15:02,dd55d60ce5,
+c9xmd5sxfezpfbw0wgc9xmd5skof004a,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-21 20:40:18,2020-07-21 20:42:36,7e33258f09,
+7ndocqygsgl3f7ndofstecg9igooqn9a,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 20:36:50,2020-07-21 20:38:20,60e8417877,
+iqfsdxnblkmnt6bb3aoiqfsdx5oyoyfu,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 20:31:27,2020-07-21 20:33:52,c412de00cd,
+s7g8xhnotljb9izxgijs7g8xhn4vmkpo,Bottle bank,1,1,1,Battery bank,2,2,1,2,2,2,2,1,2,1,10,2020-07-21 20:24:35,2020-07-21 20:28:03,62599518d5,
+953nmhe5qwcb8dj6l953nmhqi4asp2t8,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-21 20:20:50,2020-07-21 20:23:42,62599518d5,
+z9e5ees3cn7hq05l26z9e58tyz52kpn9,2,1,1,1,Battery bank,1,1,1,2,2,1,2,1,2,2,11,2020-07-21 20:20:41,2020-07-21 20:22:52,0a7d21ba00,
+u37d8zlmg1ydtggu37527nbwkh174raj,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 19:41:05,2020-07-21 19:43:26,936ce2b73c,
+hwebgnvl0rkofyrkfrjbvkhwebgnvlpj,Bottle bank,1,1,1,Battery bank,1,2,1,2,2,1,1,1,2,1,11,2020-07-21 19:19:38,2020-07-21 19:22:57,954dd20eb6,
+tvdk5d3ecs485apz3mhtvdk57ut4rjhe,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,1,1,2,1,12,2020-07-21 18:14:24,2020-07-21 18:16:00,6d6bc6ce0c,
+nv24065ixub0at3rwbnv245v1rct7um0,2,2,1,1,Battery bank,1,2,1,1,2,1,2,1,2,1,11,2020-07-21 18:09:51,2020-07-21 18:12:51,4d616cd217,
+icutu75cupx347j7edu6a2icutu75tbv,Bottle bank,1,1,1,Battery bank,1,2,1,2,1,1,1,2,2,2,8,2020-07-21 18:00:50,2020-07-21 18:02:41,c814ade858,
+j2rdh3hl8yzxl3h32xj2rdh2t0210p5j,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 17:57:29,2020-07-21 17:59:14,8c1f36bcd8,
+yb3o0y8maadnt0viyu3fyb3o0y8g3s1w,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,2,2,1,14,2020-07-21 17:56:18,2020-07-21 17:59:11,40e51742a2,
+76cqr219h4kzn8qp4d76cqripkeqrhse,Bottle bank,1,1,2,Battery bank,1,1,2,2,2,1,2,2,2,1,12,2020-07-21 17:41:00,2020-07-21 17:42:59,2aed0fd08c,
+pe8xx1ne749z9c9pe7z0ibptj0yeahur,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-21 17:39:10,2020-07-21 17:41:02,11cab1df13,
+vmtm16c22mtzvmt6zbm6qz53k0miyiqf,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 17:30:40,2020-07-21 17:32:24,802c3734d3,
+mc24okmvkv0viuncjcnmc24okmfncoqx,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 17:10:41,2020-07-21 17:12:40,d7ac440d7d,
+fw62xvb70eextindizfw62a7wmn2gxpw,Bottle bank,1,2,1,Battery bank,1,1,1,2,2,2,2,2,2,1,10,2020-07-21 17:10:21,2020-07-21 17:12:28,d81ae92544,
+10jlqcxckm6q69ib10j71syul4hoox35,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,1,1,2,1,13,2020-07-21 17:03:01,2020-07-21 17:07:46,40e51742a2,
+k6r6eahon5njsc9r921m4s6k6r6eiogz,Bottle bank,1,2,2,Battery bank,1,2,1,1,2,1,2,1,2,1,13,2020-07-21 16:53:40,2020-07-21 16:55:48,6cdda329b3,
+7yaplfb133cam4qle7yapl1brwi2zcb7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 16:48:06,2020-07-21 16:50:27,e30d1328f6,
+suf7clk84gty0u7wt2qasuf7clu3bkac,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-21 16:47:24,2020-07-21 16:49:07,ae07469fa3,
+77x3d9es32hmha7t77x3d9eep1il1yl4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-21 16:43:00,2020-07-21 16:44:34,e2a138af87,
+6pznk8opz8i0rwnnn6pownp4hedo9yum,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 16:35:28,2020-07-21 16:37:19,2b8cac7630,
+tthrrz7pqfk2yg1lun71tthrxi88fxfc,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 16:28:40,2020-07-21 16:31:03,6e118db4e4,
+80y78okaiht3m49s9m80y7soqhs2jee4,Bottle bank,1,1,1,Battery bank,2,1,1,2,2,1,2,2,2,1,11,2020-07-21 16:21:45,2020-07-21 16:24:35,799e344088,
+i8wwek6ydfgv7dy8u7upai8wweqd89q5,Bottle bank,1,1,2,Battery bank,2,1,1,1,2,1,1,1,2,1,13,2020-07-21 16:15:52,2020-07-21 16:18:37,300332283f,
+pbsgpdy03z0bpbsgfmydz79sy8i2q4q6,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-21 16:13:23,2020-07-21 16:17:24,cabaec61c8,
+kob4mdobb32bqceikobgk3dgabflt994,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,,1,13,2020-07-21 16:07:50,2020-07-21 16:10:10,337f874910,
+yz1yhfnz4h53yz1u43z55ne2fjgb8yu4,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 16:02:57,2020-07-21 16:05:29,62ba36a059,
+vud04sjttfp9ld4zg3vud04sjr7zwezy,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:57:32,2020-07-21 15:58:38,fa82bc4ab2,
+rpl743m0m6b0b7uvh2j4rpl743i5ppth,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:52:34,2020-07-21 15:54:18,a0257747b4,
+m2go8xukh77xa5qoauwm2go8mffh138p,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:46:00,2020-07-21 15:47:40,4a6ffee904,
+in0b8idufiu2y80xzv8m8din0b8idnrk,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-21 15:43:21,2020-07-21 15:45:07,010210ae97,
+u8vvcye514yh3xoqmu8vvcjwk836ogdr,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-21 15:41:44,2020-07-21 15:43:39,fce6a797bd,
+k4fqaszais65r1ntnilyek4fqalwep9s,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,1,2,13,2020-07-21 15:40:34,2020-07-21 15:42:02,9461cb3816,
+0brohw7bxh4gfu5bwol0brohih5u4gan,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:38:25,2020-07-21 15:40:05,e041bb1af3,
+29mj5fmx1r55ih3v0029mj5ftv98v9lh,Bottle bank,1,1,1,Battery bank,1,1,1,2,1,1,1,1,1,1,10,2020-07-21 15:34:46,2020-07-21 15:37:14,9d77f4bf08,
+w4fs7h9pwc77ew4nq12mw4fs7h9yy0pc,Bottle bank,1,2,2,Battery bank,1,2,1,2,2,1,1,1,1,1,10,2020-07-21 15:32:24,2020-07-21 15:36:02,2c0288551d,
+elt70em593xoo8s27780w6belt70em59,Bottle bank,1,2,2,Battery bank,2,1,1,1,2,1,1,1,2,1,12,2020-07-21 15:33:00,2020-07-21 15:35:44,23ba3b6ceb,
+jx5ddw1ok71o7z0wc93jx5dt75hutsaa,Bottle bank,1,2,2,Battery bank,2,2,2,1,2,1,2,1,2,1,11,2020-07-21 15:28:52,2020-07-21 15:31:38,34f5c2d1ae,
+pdtrtlo6z81ok3mpdtr5qfguxghuw7qg,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-21 15:29:02,2020-07-21 15:30:48,6dcd44acb6,
+ce5r6x8i7sa1m53kmin1iayxce5r6x8w,Bottle bank,1,1,2,Battery bank,1,2,1,2,2,1,2,2,2,1,12,2020-07-21 15:28:47,2020-07-21 15:30:25,f15349eb8f,
+yeqrdosoh316y1zo15yeqr0kwb557hku,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:28:08,2020-07-21 15:29:52,f0ba4cd36b,
+8f4wbcgy114sz8f4wbfzzfhq1f7nkcpd,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:21:57,2020-07-21 15:23:10,3ace6b6564,
+v4vbwkcg6kp7tln9fhxcsiv4vbwk88we,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:20:22,2020-07-21 15:22:03,e9b55b86e7,
+t1xn1tsyb568zdem6bt1xnfm6af7tykn,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:18:03,2020-07-21 15:20:01,900ded60a8,
+l1tx0lzup4q6bl1tx0lefy7uc4yye701,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,2,2,1,13,2020-07-21 15:16:28,2020-07-21 15:19:56,e9b55b86e7,
+m35w06mdciogqkb5m0i2um35w06hkvuf,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-21 15:16:15,2020-07-21 15:19:06,87acb3f2b5,
+2u539ymxdnut8h9dotz7u2u539ymjd19,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-21 15:16:05,2020-07-21 15:18:24,0e2481db09,
+2lj5qv4ig0iq33fcuvnp2lj5qv4jvhbw,Bottle bank,1,2,2,Battery bank,1,1,1,1,2,1,1,1,2,1,13,2020-07-21 15:15:04,2020-07-21 15:17:04,86a42250e7,
+tiaynye213t96xlzs00cbdaktiaynygy,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-21 15:13:29,2020-07-21 15:16:11,8e1cb84482,
+xg6iynckmfmay20axg6ida5nn80rhib5,Bottle bank,1,1,1,Battery bank,2,1,1,1,2,1,1,1,1,1,11,2020-07-21 15:12:13,2020-07-21 15:14:56,2bb6e8d957,
+xv51l2gwq27oz2xtxv51lojl4seqacfx,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:08:08,2020-07-21 15:09:55,34ad64f0cb,
+zk954zdtx1h0s6fzk9tou3uygycqrfmk,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:05:58,2020-07-21 15:07:57,69590041db,
+fmuupg25wsx0zio55n8fmuupg5fmgoc8,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-21 15:05:08,2020-07-21 15:06:55,88900752fc,
+fen4swn98o207208vfen9mxdahg5aap4,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-21 15:04:10,2020-07-21 15:06:47,b8c6e1650c,
+u1rsbk0gg4kzgmylu1rsbkvstsjr1zyc,Bottle bank,1,1,2,Battery bank,1,1,1,2,1,1,1,1,2,1,12,2020-07-21 15:02:56,2020-07-21 15:06:22,2dd9d9e430,
+0trjwnaqk0z0nawrw0krxubd0trjwn0z,Bottle bank,1,1,2,Battery bank,1,2,1,1,2,1,2,1,2,1,14,2020-07-21 15:03:45,2020-07-21 15:05:55,e6cde25eb6,
+5dcla1f3lkcd5dcymcfeoho2sz0b9d2y,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 15:02:45,2020-07-21 15:05:15,598bbfa30e,
+6dyv9ojjicmp6vasqaz6dyv9oj1st3sm,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,1,1,13,2020-07-21 15:02:20,2020-07-21 15:04:13,d798ef9e2e,
+fsotequw146z5y3fsotyadonffnb5fuy,Bottle bank,1,2,2,Battery bank,2,2,1,1,2,2,2,1,2,1,11,2020-07-21 15:02:28,2020-07-21 15:04:10,362130977a,
+tpsudafdqeumuktpsuww12s6j7cc1qpf,Bottle bank,1,2,1,Battery bank,1,1,1,2,2,1,2,1,2,1,12,2020-07-21 15:01:34,2020-07-21 15:03:27,71b60a7509,
+lwl1g601yzg3fxruxpn6dlwl1ge2o6vj,Bottle bank,1,1,2,2,1,2,1,1,2,1,2,1,2,1,13,2020-07-21 14:57:11,2020-07-21 14:59:56,16d42ba203,
+f5atmhql77w89qubpd8uyf5atmuq1scw,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,1,1,2,1,14,2020-07-21 14:54:22,2020-07-21 14:56:50,d7f7718674,
+viftbyy9mtlxx7vif7wk8z898in1iba7,Bottle bank,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,15,2020-07-21 14:48:03,2020-07-21 14:50:29,62fd99bd41,
+3yn3dhrh3une1dc7nqkn3yn3dktqufrh,,1,1,2,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-21 14:47:51,2020-07-21 14:49:51,f8e997fcc9,
+ci465lc2krabwo6th5ci465km2p8gsvl,Bottle bank,1,1,2,Battery bank,1,1,1,2,2,1,2,1,2,1,14,2020-07-21 14:47:04,2020-07-21 14:49:08,55458cde25,
+qdzcbnc2at0jw5qdzcushdehts111rn7,Bottle bank,1,2,2,Battery bank,1,1,1,2,2,1,2,2,2,1,12,2020-07-21 14:45:30,2020-07-21 14:48:19,70e4416532,
+zh71mbwyzyde1l7m4nbzh71m0r8064b2,Bottle bank,1,1,1,Battery bank,1,1,1,1,2,1,2,1,2,1,14,2020-07-21 14:42:16,2020-07-21 14:44:37,97633508a6,
+9s02a679fgjog8fhpz339s02il7dznip,Bottle bank,1,1,1,Battery bank,1,2,1,1,2,2,2,1,1,1,11,2020-07-21 14:40:48,2020-07-21 14:43:04,b9876b0e71,
+liezkgahvt04njgb2f1yliezkgzylsm7,Bottle bank,1,1,2,Battery bank,,2,1,1,2,1,2,1,2,1,13,2020-07-21 14:39:13,2020-07-21 14:40:40,5e68307d9d,
