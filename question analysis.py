@@ -12,8 +12,8 @@ import scipy.stats as stats
 import pandas as pd
 
 #data formatted so no answer =0 green bin=1 black bin=2
-before = pd.DataFrame.fillna(pd.read_csv('before.csv',usecols=[2,3,4,6,7,8,9,10,11,12]),value=0)
-after = pd.DataFrame.fillna(pd.read_csv('after.csv',usecols=[2,3,4,6,7,8,9,10,11,12]),value=0)
+before = pd.DataFrame.fillna(pd.read_csv('before.csv',usecols=[2,3,4,6,7,8,9,10,11,12,13,14,15]),value=0)
+after = pd.DataFrame.fillna(pd.read_csv('after.csv',usecols=[2,3,4,6,7,8,9,10,11,12,13,14,15]),value=0)
 
 #make list of column headings
 header=list(before.columns)
@@ -32,8 +32,8 @@ for i in range(0,len(header)):
     exp=stats.contingency.expected_freq([bobs,aobs])
 
     #perform and store chisq test 
-    file.write("chi square results for "+header[i]+" p value is ")
-    file.write(str(stats.chisquare(np.concatenate((bobs,aobs)),f_exp=np.concatenate(exp))[1]))
+    file.write("chi square results for "+header[i]+" test statistic is ")
+    file.write(str(stats.chisquare(np.concatenate((bobs,aobs)),f_exp=np.concatenate(exp))[0]))
     file.write('                ')
 
     #general bar chart
